@@ -1,0 +1,1022 @@
+{
+  "descrizione": "Distretti socio-sanitari delle province di Lecce, Brindisi e Taranto (Salento) con i comuni afferenti",
+  "fonte": "Presidi_Puglia.json (distretti ASL Puglia) incrociato con le anagrafiche comunali provinciali",
+  "province": [
+    "LE",
+    "BR",
+    "TA"
+  ],
+  "n_distretti": 20,
+  "n_residenti_totale": 1782644,
+  "n_residenti_provincia": {
+    "LE": 802082,
+    "BR": 397083,
+    "TA": 583479
+  },
+  "distretti": [
+    {
+      "id_distretto": "BR-01",
+      "provincia": "BR",
+      "denominazione": "DISTRETTO 1",
+      "comune_sede": "Brindisi",
+      "n_comuni": 2,
+      "comuni": [
+        "Brindisi",
+        "San Vito dei Normanni"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Brindisi",
+          "residenti": 87820
+        },
+        {
+          "comune": "San Vito dei Normanni",
+          "residenti": 19302
+        }
+      ],
+      "n_residenti_distretto": 107122,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "BR-02",
+      "provincia": "BR",
+      "denominazione": "DISTRETTO 2",
+      "comune_sede": "Fasano",
+      "n_comuni": 3,
+      "comuni": [
+        "Cisternino",
+        "Fasano",
+        "Ostuni"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Cisternino",
+          "residenti": 11600
+        },
+        {
+          "comune": "Fasano",
+          "residenti": 39749
+        },
+        {
+          "comune": "Ostuni",
+          "residenti": 31148
+        }
+      ],
+      "n_residenti_distretto": 82497,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "BR-03",
+      "provincia": "BR",
+      "denominazione": "DISTRETTO 3",
+      "comune_sede": "Francavilla Fontana",
+      "n_comuni": 6,
+      "comuni": [
+        "Carovigno",
+        "Ceglie Messapica",
+        "Francavilla Fontana",
+        "Oria",
+        "San Michele Salentino",
+        "Villa Castelli"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Carovigno",
+          "residenti": 16858
+        },
+        {
+          "comune": "Ceglie Messapica",
+          "residenti": 19965
+        },
+        {
+          "comune": "Francavilla Fontana",
+          "residenti": 36571
+        },
+        {
+          "comune": "Oria",
+          "residenti": 15167
+        },
+        {
+          "comune": "San Michele Salentino",
+          "residenti": 6298
+        },
+        {
+          "comune": "Villa Castelli",
+          "residenti": 9346
+        }
+      ],
+      "n_residenti_distretto": 104205,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "BR-04",
+      "provincia": "BR",
+      "denominazione": "DISTRETTO 4",
+      "comune_sede": "Mesagne",
+      "n_comuni": 9,
+      "comuni": [
+        "Cellino San Marco",
+        "Erchie",
+        "Latiano",
+        "Mesagne",
+        "San Donaci",
+        "San Pancrazio Salentino",
+        "San Pietro Vernotico",
+        "Torchiarolo",
+        "Torre Santa Susanna"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Cellino San Marco",
+          "residenti": 6584
+        },
+        {
+          "comune": "Erchie",
+          "residenti": 8772
+        },
+        {
+          "comune": "Latiano",
+          "residenti": 14594
+        },
+        {
+          "comune": "Mesagne",
+          "residenti": 26985
+        },
+        {
+          "comune": "San Donaci",
+          "residenti": 6669
+        },
+        {
+          "comune": "San Pancrazio Salentino",
+          "residenti": 9975
+        },
+        {
+          "comune": "San Pietro Vernotico",
+          "residenti": 13684
+        },
+        {
+          "comune": "Torchiarolo",
+          "residenti": 5459
+        },
+        {
+          "comune": "Torre Santa Susanna",
+          "residenti": 10537
+        }
+      ],
+      "n_residenti_distretto": 103259,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-51",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 51",
+      "comune_sede": "Lecce",
+      "n_comuni": 10,
+      "comuni": [
+        "Arnesano",
+        "Cavallino",
+        "Lecce",
+        "Lequile",
+        "Lizzanello",
+        "Monteroni di Lecce",
+        "San Cesario di Lecce",
+        "San Donato di Lecce",
+        "San Pietro in Lama",
+        "Surbo"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Arnesano",
+          "residenti": 4065
+        },
+        {
+          "comune": "Cavallino",
+          "residenti": 12840
+        },
+        {
+          "comune": "Lecce",
+          "residenti": 94989
+        },
+        {
+          "comune": "Lequile",
+          "residenti": 8661
+        },
+        {
+          "comune": "Lizzanello",
+          "residenti": 11929
+        },
+        {
+          "comune": "Monteroni di Lecce",
+          "residenti": 13930
+        },
+        {
+          "comune": "San Cesario di Lecce",
+          "residenti": 8226
+        },
+        {
+          "comune": "San Donato di Lecce",
+          "residenti": 5700
+        },
+        {
+          "comune": "San Pietro in Lama",
+          "residenti": 3562
+        },
+        {
+          "comune": "Surbo",
+          "residenti": 15135
+        }
+      ],
+      "n_residenti_distretto": 179037,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-52",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 52",
+      "comune_sede": "Campi Salentina",
+      "n_comuni": 8,
+      "comuni": [
+        "Campi Salentina",
+        "Carmiano",
+        "Guagnano",
+        "Novoli",
+        "Salice Salentino",
+        "Squinzano",
+        "Trepuzzi",
+        "Veglie"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Campi Salentina",
+          "residenti": 10389
+        },
+        {
+          "comune": "Carmiano",
+          "residenti": 12166
+        },
+        {
+          "comune": "Guagnano",
+          "residenti": 5748
+        },
+        {
+          "comune": "Novoli",
+          "residenti": 8078
+        },
+        {
+          "comune": "Salice Salentino",
+          "residenti": 8287
+        },
+        {
+          "comune": "Squinzano",
+          "residenti": 14100
+        },
+        {
+          "comune": "Trepuzzi",
+          "residenti": 14603
+        },
+        {
+          "comune": "Veglie",
+          "residenti": 14049
+        }
+      ],
+      "n_residenti_distretto": 87420,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-53",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 53",
+      "comune_sede": "Nardo'",
+      "n_comuni": 6,
+      "comuni": [
+        "Copertino",
+        "Galatone",
+        "Leverano",
+        "Nardò",
+        "Porto Cesareo",
+        "Seclì"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Copertino",
+          "residenti": 24258
+        },
+        {
+          "comune": "Galatone",
+          "residenti": 15584
+        },
+        {
+          "comune": "Leverano",
+          "residenti": 14214
+        },
+        {
+          "comune": "Nardò",
+          "residenti": 31511
+        },
+        {
+          "comune": "Porto Cesareo",
+          "residenti": 6196
+        },
+        {
+          "comune": "Seclì",
+          "residenti": 1890
+        }
+      ],
+      "n_residenti_distretto": 93653,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-54",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 54",
+      "comune_sede": "Martano",
+      "n_comuni": 10,
+      "comuni": [
+        "Calimera",
+        "Caprarica di Lecce",
+        "Carpignano Salentino",
+        "Castri di Lecce",
+        "Martano",
+        "Martignano",
+        "Melendugno",
+        "Sternatia",
+        "Vernole",
+        "Zollino"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Calimera",
+          "residenti": 7084
+        },
+        {
+          "comune": "Caprarica di Lecce",
+          "residenti": 2450
+        },
+        {
+          "comune": "Carpignano Salentino",
+          "residenti": 3783
+        },
+        {
+          "comune": "Castri di Lecce",
+          "residenti": 2920
+        },
+        {
+          "comune": "Martano",
+          "residenti": 9151
+        },
+        {
+          "comune": "Martignano",
+          "residenti": 1665
+        },
+        {
+          "comune": "Melendugno",
+          "residenti": 9947
+        },
+        {
+          "comune": "Sternatia",
+          "residenti": 2293
+        },
+        {
+          "comune": "Vernole",
+          "residenti": 7135
+        },
+        {
+          "comune": "Zollino",
+          "residenti": 1981
+        }
+      ],
+      "n_residenti_distretto": 48409,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-55",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 55",
+      "comune_sede": "Galatina",
+      "n_comuni": 6,
+      "comuni": [
+        "Aradeo",
+        "Cutrofiano",
+        "Galatina",
+        "Neviano",
+        "Sogliano Cavour",
+        "Soleto"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Aradeo",
+          "residenti": 9436
+        },
+        {
+          "comune": "Cutrofiano",
+          "residenti": 8992
+        },
+        {
+          "comune": "Galatina",
+          "residenti": 27056
+        },
+        {
+          "comune": "Neviano",
+          "residenti": 5315
+        },
+        {
+          "comune": "Sogliano Cavour",
+          "residenti": 4154
+        },
+        {
+          "comune": "Soleto",
+          "residenti": 5444
+        }
+      ],
+      "n_residenti_distretto": 60397,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-56",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 56",
+      "comune_sede": "Gallipoli",
+      "n_comuni": 8,
+      "comuni": [
+        "Alezio",
+        "Alliste",
+        "Gallipoli",
+        "Melissano",
+        "Racale",
+        "Sannicola",
+        "Taviano",
+        "Tuglie"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Alezio",
+          "residenti": 5695
+        },
+        {
+          "comune": "Alliste",
+          "residenti": 6730
+        },
+        {
+          "comune": "Gallipoli",
+          "residenti": 20678
+        },
+        {
+          "comune": "Melissano",
+          "residenti": 7173
+        },
+        {
+          "comune": "Racale",
+          "residenti": 10952
+        },
+        {
+          "comune": "Sannicola",
+          "residenti": 5905
+        },
+        {
+          "comune": "Taviano",
+          "residenti": 12098
+        },
+        {
+          "comune": "Tuglie",
+          "residenti": 5214
+        }
+      ],
+      "n_residenti_distretto": 74445,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-57",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 57",
+      "comune_sede": "Maglie",
+      "n_comuni": 12,
+      "comuni": [
+        "Bagnolo del Salento",
+        "Cannole",
+        "Castrignano de' Greci",
+        "Corigliano d'Otranto",
+        "Cursi",
+        "Giurdignano",
+        "Maglie",
+        "Melpignano",
+        "Muro Leccese",
+        "Otranto",
+        "Palmariggi",
+        "Scorrano"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Bagnolo del Salento",
+          "residenti": 1829
+        },
+        {
+          "comune": "Cannole",
+          "residenti": 1698
+        },
+        {
+          "comune": "Castrignano de' Greci",
+          "residenti": 3937
+        },
+        {
+          "comune": "Corigliano d'Otranto",
+          "residenti": 5787
+        },
+        {
+          "comune": "Cursi",
+          "residenti": 4152
+        },
+        {
+          "comune": "Giurdignano",
+          "residenti": 1970
+        },
+        {
+          "comune": "Maglie",
+          "residenti": 14345
+        },
+        {
+          "comune": "Melpignano",
+          "residenti": 2235
+        },
+        {
+          "comune": "Muro Leccese",
+          "residenti": 4948
+        },
+        {
+          "comune": "Otranto",
+          "residenti": 5742
+        },
+        {
+          "comune": "Palmariggi",
+          "residenti": 1497
+        },
+        {
+          "comune": "Scorrano",
+          "residenti": 6992
+        }
+      ],
+      "n_residenti_distretto": 55132,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-58",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 58",
+      "comune_sede": "Poggiardo",
+      "n_comuni": 15,
+      "comuni": [
+        "Andrano",
+        "Botrugno",
+        "Castro",
+        "Diso",
+        "Giuggianello",
+        "Minervino di Lecce",
+        "Nociglia",
+        "Ortelle",
+        "Poggiardo",
+        "San Cassiano",
+        "Sanarica",
+        "Santa Cesarea Terme",
+        "Spongano",
+        "Surano",
+        "Uggiano La Chiesa"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Andrano",
+          "residenti": 4772
+        },
+        {
+          "comune": "Botrugno",
+          "residenti": 2759
+        },
+        {
+          "comune": "Castro",
+          "residenti": 2422
+        },
+        {
+          "comune": "Diso",
+          "residenti": 2964
+        },
+        {
+          "comune": "Giuggianello",
+          "residenti": 1210
+        },
+        {
+          "comune": "Minervino di Lecce",
+          "residenti": 3647
+        },
+        {
+          "comune": "Nociglia",
+          "residenti": 2307
+        },
+        {
+          "comune": "Ortelle",
+          "residenti": 2336
+        },
+        {
+          "comune": "Poggiardo",
+          "residenti": 6058
+        },
+        {
+          "comune": "San Cassiano",
+          "residenti": 2027
+        },
+        {
+          "comune": "Sanarica",
+          "residenti": 1477
+        },
+        {
+          "comune": "Santa Cesarea Terme",
+          "residenti": 3023
+        },
+        {
+          "comune": "Spongano",
+          "residenti": 3689
+        },
+        {
+          "comune": "Surano",
+          "residenti": 1644
+        },
+        {
+          "comune": "Uggiano La Chiesa",
+          "residenti": 4409
+        }
+      ],
+      "n_residenti_distretto": 44744,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-59",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 59",
+      "comune_sede": "Casarano",
+      "n_comuni": 7,
+      "comuni": [
+        "Casarano",
+        "Collepasso",
+        "Matino",
+        "Parabita",
+        "Ruffano",
+        "Supersano",
+        "Taurisano"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Casarano",
+          "residenti": 20176
+        },
+        {
+          "comune": "Collepasso",
+          "residenti": 6066
+        },
+        {
+          "comune": "Matino",
+          "residenti": 11476
+        },
+        {
+          "comune": "Parabita",
+          "residenti": 9121
+        },
+        {
+          "comune": "Ruffano",
+          "residenti": 9767
+        },
+        {
+          "comune": "Supersano",
+          "residenti": 4424
+        },
+        {
+          "comune": "Taurisano",
+          "residenti": 11855
+        }
+      ],
+      "n_residenti_distretto": 72885,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "LE-60",
+      "provincia": "LE",
+      "denominazione": "DISTRETTO 60",
+      "comune_sede": "Gagliano Del Capo",
+      "n_comuni": 15,
+      "comuni": [
+        "Acquarica del Capo",
+        "Alessano",
+        "Castrignano del Capo",
+        "Corsano",
+        "Gagliano del Capo",
+        "Miggiano",
+        "Montesano Salentino",
+        "Morciano di Leuca",
+        "Patù",
+        "Presicce",
+        "Salve",
+        "Specchia",
+        "Tiggiano",
+        "Tricase",
+        "Ugento"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Acquarica del Capo",
+          "residenti": 4745
+        },
+        {
+          "comune": "Alessano",
+          "residenti": 6419
+        },
+        {
+          "comune": "Castrignano del Capo",
+          "residenti": 5257
+        },
+        {
+          "comune": "Corsano",
+          "residenti": 5500
+        },
+        {
+          "comune": "Gagliano del Capo",
+          "residenti": 5154
+        },
+        {
+          "comune": "Miggiano",
+          "residenti": 3538
+        },
+        {
+          "comune": "Montesano Salentino",
+          "residenti": 2658
+        },
+        {
+          "comune": "Morciano di Leuca",
+          "residenti": 3309
+        },
+        {
+          "comune": "Patù",
+          "residenti": 1685
+        },
+        {
+          "comune": "Presicce",
+          "residenti": 5356
+        },
+        {
+          "comune": "Salve",
+          "residenti": 4649
+        },
+        {
+          "comune": "Specchia",
+          "residenti": 4780
+        },
+        {
+          "comune": "Tiggiano",
+          "residenti": 2870
+        },
+        {
+          "comune": "Tricase",
+          "residenti": 17621
+        },
+        {
+          "comune": "Ugento",
+          "residenti": 12419
+        }
+      ],
+      "n_residenti_distretto": 85960,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-01",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 1",
+      "comune_sede": "Ginosa",
+      "n_comuni": 4,
+      "comuni": [
+        "Castellaneta",
+        "Ginosa",
+        "Laterza",
+        "Palagianello"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Castellaneta",
+          "residenti": 17095
+        },
+        {
+          "comune": "Ginosa",
+          "residenti": 22547
+        },
+        {
+          "comune": "Laterza",
+          "residenti": 15257
+        },
+        {
+          "comune": "Palagianello",
+          "residenti": 7841
+        }
+      ],
+      "n_residenti_distretto": 62740,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-02",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 2",
+      "comune_sede": "Massafra",
+      "n_comuni": 4,
+      "comuni": [
+        "Massafra",
+        "Mottola",
+        "Palagiano",
+        "Statte"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Massafra",
+          "residenti": 32989
+        },
+        {
+          "comune": "Mottola",
+          "residenti": 15888
+        },
+        {
+          "comune": "Palagiano",
+          "residenti": 16144
+        },
+        {
+          "comune": "Statte",
+          "residenti": 13887
+        }
+      ],
+      "n_residenti_distretto": 78908,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-05",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 5",
+      "comune_sede": "Martina Franca",
+      "n_comuni": 2,
+      "comuni": [
+        "Crispiano",
+        "Martina Franca"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Crispiano",
+          "residenti": 13770
+        },
+        {
+          "comune": "Martina Franca",
+          "residenti": 49029
+        }
+      ],
+      "n_residenti_distretto": 62799,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-06",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 6",
+      "comune_sede": "Grottaglie",
+      "n_comuni": 11,
+      "comuni": [
+        "Carosino",
+        "Faggiano",
+        "Grottaglie",
+        "Leporano",
+        "Monteiasi",
+        "Montemesola",
+        "Monteparano",
+        "Pulsano",
+        "Roccaforzata",
+        "San Giorgio Ionico",
+        "San Marzano di San Giuseppe"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Carosino",
+          "residenti": 7042
+        },
+        {
+          "comune": "Faggiano",
+          "residenti": 3546
+        },
+        {
+          "comune": "Grottaglie",
+          "residenti": 32114
+        },
+        {
+          "comune": "Leporano",
+          "residenti": 8101
+        },
+        {
+          "comune": "Monteiasi",
+          "residenti": 5614
+        },
+        {
+          "comune": "Montemesola",
+          "residenti": 3887
+        },
+        {
+          "comune": "Monteparano",
+          "residenti": 2403
+        },
+        {
+          "comune": "Pulsano",
+          "residenti": 11431
+        },
+        {
+          "comune": "Roccaforzata",
+          "residenti": 1828
+        },
+        {
+          "comune": "San Giorgio Ionico",
+          "residenti": 15218
+        },
+        {
+          "comune": "San Marzano di San Giuseppe",
+          "residenti": 9258
+        }
+      ],
+      "n_residenti_distretto": 100442,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-07",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 7",
+      "comune_sede": "Manduria",
+      "n_comuni": 7,
+      "comuni": [
+        "Avetrana",
+        "Fragagnano",
+        "Lizzano",
+        "Manduria",
+        "Maruggio",
+        "Sava",
+        "Torricella"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Avetrana",
+          "residenti": 6700
+        },
+        {
+          "comune": "Fragagnano",
+          "residenti": 5271
+        },
+        {
+          "comune": "Lizzano",
+          "residenti": 10096
+        },
+        {
+          "comune": "Manduria",
+          "residenti": 31360
+        },
+        {
+          "comune": "Maruggio",
+          "residenti": 5294
+        },
+        {
+          "comune": "Sava",
+          "residenti": 16109
+        },
+        {
+          "comune": "Torricella",
+          "residenti": 4199
+        }
+      ],
+      "n_residenti_distretto": 79029,
+      "residenti_completi": true
+    },
+    {
+      "id_distretto": "TA-08",
+      "provincia": "TA",
+      "denominazione": "DISTRETTO 8",
+      "comune_sede": "Taranto",
+      "n_comuni": 1,
+      "comuni": [
+        "Taranto"
+      ],
+      "n_residenti_comune": [
+        {
+          "comune": "Taranto",
+          "residenti": 199561
+        }
+      ],
+      "n_residenti_distretto": 199561,
+      "residenti_completi": true
+    }
+  ],
+  "comuni_non_assegnati": {
+    "LE": {
+      "n": 0,
+      "comuni": []
+    },
+    "BR": {
+      "n": 0,
+      "comuni": []
+    },
+    "TA": {
+      "n": 0,
+      "comuni": []
+    }
+  }
+}

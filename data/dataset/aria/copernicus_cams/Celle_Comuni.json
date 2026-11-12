@@ -1,0 +1,3627 @@
+{
+ "descrizione": "Celle CAMS 0,1° che intersecano ogni comune, con peso = quota della superficie comunale dentro la cella (somma 1). Griglia nominale CAMS Europa, da riconfermare sul primo file reale.",
+ "metodo": "media pesata sull'area (api/comune/celle_comuni.py)",
+ "copertura_minima_griglia": 1.0,
+ "comuni": {
+  "073001": {
+   "comune": "Avetrana",
+   "distretto": "TA-07",
+   "nome_confine": "Avetrana",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.9243
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.65,
+     "peso": 0.0757
+    }
+   ]
+  },
+  "073002": {
+   "comune": "Carosino",
+   "distretto": "TA-06",
+   "nome_confine": "Carosino",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.7705
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.2295
+    }
+   ]
+  },
+  "073003": {
+   "comune": "Castellaneta",
+   "distretto": "TA-01",
+   "nome_confine": "Castellaneta",
+   "n_celle": 8,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 16.85,
+     "peso": 0.2333
+    },
+    {
+     "lat": 40.55,
+     "lon": 16.95,
+     "peso": 0.2002
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.85,
+     "peso": 0.1947
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.95,
+     "peso": 0.1498
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.95,
+     "peso": 0.1151
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.85,
+     "peso": 0.049
+    },
+    {
+     "lat": 40.75,
+     "lon": 16.85,
+     "peso": 0.0475
+    },
+    {
+     "lat": 40.75,
+     "lon": 16.95,
+     "peso": 0.0105
+    }
+   ]
+  },
+  "073004": {
+   "comune": "Crispiano",
+   "distretto": "TA-05",
+   "nome_confine": "Crispiano",
+   "n_celle": 8,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.25,
+     "peso": 0.336
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.25,
+     "peso": 0.2071
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.15,
+     "peso": 0.1422
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.35,
+     "peso": 0.1017
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 0.0979
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.15,
+     "peso": 0.0891
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.45,
+     "peso": 0.0229
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0031
+    }
+   ]
+  },
+  "073005": {
+   "comune": "Faggiano",
+   "distretto": "TA-06",
+   "nome_confine": "Faggiano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.698
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.35,
+     "peso": 0.1771
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.0814
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.0434
+    }
+   ]
+  },
+  "073006": {
+   "comune": "Fragagnano",
+   "distretto": "TA-07",
+   "nome_confine": "Fragagnano",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.9328
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.063
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.0042
+    }
+   ]
+  },
+  "073007": {
+   "comune": "Ginosa",
+   "distretto": "TA-01",
+   "nome_confine": "Ginosa",
+   "n_celle": 7,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 16.75,
+     "peso": 0.3811
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.85,
+     "peso": 0.3491
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.75,
+     "peso": 0.1309
+    },
+    {
+     "lat": 40.55,
+     "lon": 16.85,
+     "peso": 0.13
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.95,
+     "peso": 0.0056
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.75,
+     "peso": 0.0029
+    },
+    {
+     "lat": 40.35,
+     "lon": 16.85,
+     "peso": 0.0004
+    }
+   ]
+  },
+  "073008": {
+   "comune": "Grottaglie",
+   "distretto": "TA-06",
+   "nome_confine": "Grottaglie",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.4528
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 0.3356
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.1836
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.35,
+     "peso": 0.028
+    }
+   ]
+  },
+  "073009": {
+   "comune": "Laterza",
+   "distretto": "TA-01",
+   "nome_confine": "Laterza",
+   "n_celle": 7,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 16.75,
+     "peso": 0.4857
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.85,
+     "peso": 0.2882
+    },
+    {
+     "lat": 40.75,
+     "lon": 16.75,
+     "peso": 0.1006
+    },
+    {
+     "lat": 40.55,
+     "lon": 16.85,
+     "peso": 0.0859
+    },
+    {
+     "lat": 40.55,
+     "lon": 16.75,
+     "peso": 0.0388
+    },
+    {
+     "lat": 40.75,
+     "lon": 16.65,
+     "peso": 0.0008
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.65,
+     "peso": 0.0
+    }
+   ]
+  },
+  "073010": {
+   "comune": "Leporano",
+   "distretto": "TA-06",
+   "nome_confine": "Leporano",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.35,
+     "peso": 0.8053
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.25,
+     "peso": 0.1648
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.0299
+    }
+   ]
+  },
+  "073011": {
+   "comune": "Lizzano",
+   "distretto": "TA-07",
+   "nome_confine": "Lizzano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.8251
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.1749
+    }
+   ]
+  },
+  "073012": {
+   "comune": "Manduria",
+   "distretto": "TA-07",
+   "nome_confine": "Manduria",
+   "n_celle": 7,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.65,
+     "peso": 0.4685
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.65,
+     "peso": 0.2499
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.55,
+     "peso": 0.1038
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.0914
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.0717
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.0093
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.75,
+     "peso": 0.0054
+    }
+   ]
+  },
+  "073013": {
+   "comune": "Martina Franca",
+   "distretto": "TA-05",
+   "nome_confine": "Martina Franca",
+   "n_celle": 10,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.35,
+     "peso": 0.2689
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.25,
+     "peso": 0.2451
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.25,
+     "peso": 0.1914
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.35,
+     "peso": 0.1058
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.45,
+     "peso": 0.0911
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.15,
+     "peso": 0.04
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.15,
+     "peso": 0.0316
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0256
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.25,
+     "peso": 0.0003
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.35,
+     "peso": 0.0001
+    }
+   ]
+  },
+  "073014": {
+   "comune": "Maruggio",
+   "distretto": "TA-07",
+   "nome_confine": "Maruggio",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.55,
+     "peso": 0.8962
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.55,
+     "peso": 0.0524
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.65,
+     "peso": 0.0513
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.65,
+     "peso": 0.0
+    }
+   ]
+  },
+  "073015": {
+   "comune": "Massafra",
+   "distretto": "TA-02",
+   "nome_confine": "Massafra",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.15,
+     "peso": 0.4003
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.15,
+     "peso": 0.2784
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.05,
+     "peso": 0.2365
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.05,
+     "peso": 0.0848
+    }
+   ]
+  },
+  "073016": {
+   "comune": "Monteiasi",
+   "distretto": "TA-06",
+   "nome_confine": "Monteiasi",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 0.5532
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.359
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.087
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0009
+    }
+   ]
+  },
+  "073017": {
+   "comune": "Montemesola",
+   "distretto": "TA-06",
+   "nome_confine": "Montemesola",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 1.0
+    }
+   ]
+  },
+  "073018": {
+   "comune": "Monteparano",
+   "distretto": "TA-06",
+   "nome_confine": "Monteparano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.9976
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.0024
+    }
+   ]
+  },
+  "073019": {
+   "comune": "Mottola",
+   "distretto": "TA-02",
+   "nome_confine": "Mottola",
+   "n_celle": 7,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.05,
+     "peso": 0.3827
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.95,
+     "peso": 0.2246
+    },
+    {
+     "lat": 40.75,
+     "lon": 16.95,
+     "peso": 0.1408
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.05,
+     "peso": 0.0921
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.15,
+     "peso": 0.0847
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.15,
+     "peso": 0.0747
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.25,
+     "peso": 0.0003
+    }
+   ]
+  },
+  "073020": {
+   "comune": "Palagianello",
+   "distretto": "TA-01",
+   "nome_confine": "Palagianello",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 16.95,
+     "peso": 0.768
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.95,
+     "peso": 0.232
+    }
+   ]
+  },
+  "073021": {
+   "comune": "Palagiano",
+   "distretto": "TA-02",
+   "nome_confine": "Palagiano",
+   "n_celle": 6,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.05,
+     "peso": 0.7581
+    },
+    {
+     "lat": 40.55,
+     "lon": 16.95,
+     "peso": 0.1817
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.05,
+     "peso": 0.0351
+    },
+    {
+     "lat": 40.45,
+     "lon": 16.95,
+     "peso": 0.0164
+    },
+    {
+     "lat": 40.65,
+     "lon": 16.95,
+     "peso": 0.0067
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.05,
+     "peso": 0.002
+    }
+   ]
+  },
+  "073022": {
+   "comune": "Pulsano",
+   "distretto": "TA-06",
+   "nome_confine": "Pulsano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.35,
+     "peso": 0.9786
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.0214
+    }
+   ]
+  },
+  "073023": {
+   "comune": "Roccaforzata",
+   "distretto": "TA-06",
+   "nome_confine": "Roccaforzata",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.5256
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.4744
+    }
+   ]
+  },
+  "073024": {
+   "comune": "San Giorgio Ionico",
+   "distretto": "TA-06",
+   "nome_confine": "San Giorgio Ionico",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 1.0
+    }
+   ]
+  },
+  "073025": {
+   "comune": "San Marzano di San Giuseppe",
+   "distretto": "TA-06",
+   "nome_confine": "San Marzano di San Giuseppe",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.6761
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.3239
+    }
+   ]
+  },
+  "073026": {
+   "comune": "Sava",
+   "distretto": "TA-07",
+   "nome_confine": "Sava",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.55,
+     "peso": 0.5105
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.4418
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.0441
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.0036
+    }
+   ]
+  },
+  "073027": {
+   "comune": "Taranto",
+   "distretto": "TA-08",
+   "nome_confine": "Taranto",
+   "n_celle": 11,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.25,
+     "peso": 0.2783
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.35,
+     "peso": 0.1884
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.25,
+     "peso": 0.1178
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 0.1027
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.0838
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.15,
+     "peso": 0.0768
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.0569
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.35,
+     "peso": 0.0354
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.15,
+     "peso": 0.0254
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.25,
+     "peso": 0.0189
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0156
+    }
+   ]
+  },
+  "073028": {
+   "comune": "Torricella",
+   "distretto": "TA-07",
+   "nome_confine": "Torricella",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.45,
+     "peso": 0.6338
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.55,
+     "peso": 0.3662
+    }
+   ]
+  },
+  "073029": {
+   "comune": "Statte",
+   "distretto": "TA-02",
+   "nome_confine": "Statte",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.25,
+     "peso": 0.6315
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.15,
+     "peso": 0.3302
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.35,
+     "peso": 0.0383
+    }
+   ]
+  },
+  "074001": {
+   "comune": "Brindisi",
+   "distretto": "BR-01",
+   "nome_confine": "Brindisi",
+   "n_celle": 11,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.85,
+     "peso": 0.2587
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.95,
+     "peso": 0.2302
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.95,
+     "peso": 0.1845
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.85,
+     "peso": 0.1205
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.75,
+     "peso": 0.1015
+    },
+    {
+     "lat": 40.55,
+     "lon": 18.05,
+     "peso": 0.0569
+    },
+    {
+     "lat": 40.65,
+     "lon": 18.05,
+     "peso": 0.028
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.016
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.85,
+     "peso": 0.0022
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.75,
+     "peso": 0.0016
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.0
+    }
+   ]
+  },
+  "074002": {
+   "comune": "Carovigno",
+   "distretto": "BR-03",
+   "nome_confine": "Carovigno",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.75,
+     "lon": 17.75,
+     "peso": 0.3057
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.65,
+     "peso": 0.305
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.2339
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.75,
+     "peso": 0.1552
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.85,
+     "peso": 0.0002
+    }
+   ]
+  },
+  "074003": {
+   "comune": "Ceglie Messapica",
+   "distretto": "BR-03",
+   "nome_confine": "Ceglie Messapica",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.55,
+     "peso": 0.4861
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.45,
+     "peso": 0.4288
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.0706
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.55,
+     "peso": 0.0145
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0
+    }
+   ]
+  },
+  "074004": {
+   "comune": "Cellino San Marco",
+   "distretto": "BR-04",
+   "nome_confine": "Cellino San Marco",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.7595
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.95,
+     "peso": 0.1374
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.1031
+    }
+   ]
+  },
+  "074005": {
+   "comune": "Cisternino",
+   "distretto": "BR-02",
+   "nome_confine": "Cisternino",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.75,
+     "lon": 17.45,
+     "peso": 0.8144
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.35,
+     "peso": 0.1856
+    }
+   ]
+  },
+  "074006": {
+   "comune": "Erchie",
+   "distretto": "BR-04",
+   "nome_confine": "Erchie",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.8277
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.65,
+     "peso": 0.1131
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.0592
+    }
+   ]
+  },
+  "074007": {
+   "comune": "Fasano",
+   "distretto": "BR-02",
+   "nome_confine": "Fasano",
+   "n_celle": 6,
+   "celle": [
+    {
+     "lat": 40.85,
+     "lon": 17.35,
+     "peso": 0.4452
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.45,
+     "peso": 0.3594
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.45,
+     "peso": 0.1386
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.35,
+     "peso": 0.045
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.55,
+     "peso": 0.0107
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.25,
+     "peso": 0.0012
+    }
+   ]
+  },
+  "074008": {
+   "comune": "Francavilla Fontana",
+   "distretto": "BR-03",
+   "nome_confine": "Francavilla Fontana",
+   "n_celle": 8,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.55,
+     "peso": 0.501
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.2293
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.65,
+     "peso": 0.1998
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.0424
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.45,
+     "peso": 0.0156
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.55,
+     "peso": 0.0066
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.65,
+     "peso": 0.0029
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.0023
+    }
+   ]
+  },
+  "074009": {
+   "comune": "Latiano",
+   "distretto": "BR-04",
+   "nome_confine": "Latiano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.75,
+     "peso": 0.473
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.65,
+     "peso": 0.375
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.1033
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.75,
+     "peso": 0.0487
+    }
+   ]
+  },
+  "074010": {
+   "comune": "Mesagne",
+   "distretto": "BR-04",
+   "nome_confine": "Mesagne",
+   "n_celle": 6,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.85,
+     "peso": 0.4432
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.75,
+     "peso": 0.3664
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.12
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.0515
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.75,
+     "peso": 0.0176
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.85,
+     "peso": 0.0012
+    }
+   ]
+  },
+  "074011": {
+   "comune": "Oria",
+   "distretto": "BR-03",
+   "nome_confine": "Oria",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.65,
+     "peso": 0.5349
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.65,
+     "peso": 0.2938
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.75,
+     "peso": 0.0848
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.55,
+     "peso": 0.0453
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.0412
+    }
+   ]
+  },
+  "074012": {
+   "comune": "Ostuni",
+   "distretto": "BR-02",
+   "nome_confine": "Ostuni",
+   "n_celle": 10,
+   "celle": [
+    {
+     "lat": 40.75,
+     "lon": 17.55,
+     "peso": 0.4088
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.65,
+     "peso": 0.1719
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.45,
+     "peso": 0.1441
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.55,
+     "peso": 0.132
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.0683
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.45,
+     "peso": 0.0334
+    },
+    {
+     "lat": 40.75,
+     "lon": 17.35,
+     "peso": 0.0226
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.55,
+     "peso": 0.0174
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.35,
+     "peso": 0.0011
+    },
+    {
+     "lat": 40.85,
+     "lon": 17.45,
+     "peso": 0.0003
+    }
+   ]
+  },
+  "074013": {
+   "comune": "San Donaci",
+   "distretto": "BR-04",
+   "nome_confine": "San Donaci",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.5169
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.4831
+    }
+   ]
+  },
+  "074014": {
+   "comune": "San Michele Salentino",
+   "distretto": "BR-03",
+   "nome_confine": "San Michele Salentino",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.5928
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.65,
+     "peso": 0.4072
+    }
+   ]
+  },
+  "074015": {
+   "comune": "San Pancrazio Salentino",
+   "distretto": "BR-04",
+   "nome_confine": "San Pancrazio Salentino",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.7657
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.1422
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.0521
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.04
+    }
+   ]
+  },
+  "074016": {
+   "comune": "San Pietro Vernotico",
+   "distretto": "BR-04",
+   "nome_confine": "San Pietro Vernotico",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 18.05,
+     "peso": 0.3982
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.95,
+     "peso": 0.2851
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.164
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.1527
+    }
+   ]
+  },
+  "074017": {
+   "comune": "San Vito dei Normanni",
+   "distretto": "BR-01",
+   "nome_confine": "San Vito dei Normanni",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.65,
+     "lon": 17.75,
+     "peso": 0.5948
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.65,
+     "peso": 0.3502
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.65,
+     "peso": 0.0551
+    }
+   ]
+  },
+  "074018": {
+   "comune": "Torchiarolo",
+   "distretto": "BR-04",
+   "nome_confine": "Torchiarolo",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 18.05,
+     "peso": 0.6173
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.3827
+    }
+   ]
+  },
+  "074019": {
+   "comune": "Torre Santa Susanna",
+   "distretto": "BR-04",
+   "nome_confine": "Torre Santa Susanna",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.75,
+     "peso": 0.6991
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.75,
+     "peso": 0.3007
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.65,
+     "peso": 0.0002
+    }
+   ]
+  },
+  "074020": {
+   "comune": "Villa Castelli",
+   "distretto": "BR-03",
+   "nome_confine": "Villa Castelli",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.55,
+     "lon": 17.45,
+     "peso": 0.8473
+    },
+    {
+     "lat": 40.55,
+     "lon": 17.55,
+     "peso": 0.1184
+    },
+    {
+     "lat": 40.65,
+     "lon": 17.45,
+     "peso": 0.0343
+    }
+   ]
+  },
+  "075002": {
+   "comune": "Alessano",
+   "distretto": "LE-60",
+   "nome_confine": "Alessano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.6125
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.2188
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.1007
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.068
+    }
+   ]
+  },
+  "075003": {
+   "comune": "Alezio",
+   "distretto": "LE-56",
+   "nome_confine": "Alezio",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075004": {
+   "comune": "Alliste",
+   "distretto": "LE-56",
+   "nome_confine": "Alliste",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.7392
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.2608
+    }
+   ]
+  },
+  "075005": {
+   "comune": "Andrano",
+   "distretto": "LE-58",
+   "nome_confine": "Andrano",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.944
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.45,
+     "peso": 0.0559
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0001
+    }
+   ]
+  },
+  "075006": {
+   "comune": "Aradeo",
+   "distretto": "LE-55",
+   "nome_confine": "Aradeo",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075007": {
+   "comune": "Arnesano",
+   "distretto": "LE-51",
+   "nome_confine": "Arnesano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.7906
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.2094
+    }
+   ]
+  },
+  "075008": {
+   "comune": "Bagnolo del Salento",
+   "distretto": "LE-57",
+   "nome_confine": "Bagnolo del Salento",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075009": {
+   "comune": "Botrugno",
+   "distretto": "LE-58",
+   "nome_confine": "Botrugno",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.657
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.343
+    }
+   ]
+  },
+  "075010": {
+   "comune": "Calimera",
+   "distretto": "LE-54",
+   "nome_confine": "Calimera",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.7434
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.35,
+     "peso": 0.2566
+    }
+   ]
+  },
+  "075011": {
+   "comune": "Campi Salentina",
+   "distretto": "LE-52",
+   "nome_confine": "Campi Salentina",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.3421
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.2856
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.2225
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.1499
+    }
+   ]
+  },
+  "075012": {
+   "comune": "Cannole",
+   "distretto": "LE-57",
+   "nome_confine": "Cannole",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.6889
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.3111
+    }
+   ]
+  },
+  "075013": {
+   "comune": "Caprarica di Lecce",
+   "distretto": "LE-54",
+   "nome_confine": "Caprarica di Lecce",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075014": {
+   "comune": "Carmiano",
+   "distretto": "LE-52",
+   "nome_confine": "Carmiano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.9999
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.0001
+    }
+   ]
+  },
+  "075015": {
+   "comune": "Carpignano Salentino",
+   "distretto": "LE-54",
+   "nome_confine": "Carpignano Salentino",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.35,
+     "peso": 0.5739
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.4124
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.0112
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.45,
+     "peso": 0.0024
+    }
+   ]
+  },
+  "075016": {
+   "comune": "Casarano",
+   "distretto": "LE-59",
+   "nome_confine": "Casarano",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.6932
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.1743
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.1325
+    }
+   ]
+  },
+  "075017": {
+   "comune": "Castri di Lecce",
+   "distretto": "LE-54",
+   "nome_confine": "Castri di Lecce",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.9969
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.25,
+     "peso": 0.0031
+    }
+   ]
+  },
+  "075018": {
+   "comune": "Castrignano de' Greci",
+   "distretto": "LE-57",
+   "nome_confine": "Castrignano de' Greci",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.6212
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.3788
+    }
+   ]
+  },
+  "075019": {
+   "comune": "Castrignano del Capo",
+   "distretto": "LE-60",
+   "nome_confine": "Castrignano del Capo",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.9017
+    },
+    {
+     "lat": 39.75,
+     "lon": 18.35,
+     "peso": 0.0983
+    }
+   ]
+  },
+  "075020": {
+   "comune": "Cavallino",
+   "distretto": "LE-51",
+   "nome_confine": "Cavallino",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.3664
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.2965
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.2363
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.25,
+     "peso": 0.1009
+    }
+   ]
+  },
+  "075021": {
+   "comune": "Collepasso",
+   "distretto": "LE-59",
+   "nome_confine": "Collepasso",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.9995
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.0005
+    }
+   ]
+  },
+  "075022": {
+   "comune": "Copertino",
+   "distretto": "LE-53",
+   "nome_confine": "Copertino",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.8406
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.1208
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.95,
+     "peso": 0.0283
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.0103
+    }
+   ]
+  },
+  "075023": {
+   "comune": "Corigliano d'Otranto",
+   "distretto": "LE-57",
+   "nome_confine": "Corigliano d'Otranto",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075024": {
+   "comune": "Corsano",
+   "distretto": "LE-60",
+   "nome_confine": "Corsano",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075025": {
+   "comune": "Cursi",
+   "distretto": "LE-57",
+   "nome_confine": "Cursi",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.9726
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.0274
+    }
+   ]
+  },
+  "075026": {
+   "comune": "Cutrofiano",
+   "distretto": "LE-55",
+   "nome_confine": "Cutrofiano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.3566
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.3031
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.2028
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.1374
+    }
+   ]
+  },
+  "075027": {
+   "comune": "Diso",
+   "distretto": "LE-58",
+   "nome_confine": "Diso",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.4108
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.3279
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.45,
+     "peso": 0.2471
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.0142
+    }
+   ]
+  },
+  "075028": {
+   "comune": "Gagliano del Capo",
+   "distretto": "LE-60",
+   "nome_confine": "Gagliano del Capo",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.9914
+    },
+    {
+     "lat": 39.75,
+     "lon": 18.35,
+     "peso": 0.0086
+    }
+   ]
+  },
+  "075029": {
+   "comune": "Galatina",
+   "distretto": "LE-55",
+   "nome_confine": "Galatina",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.5481
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.3185
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.0962
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.0252
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.012
+    }
+   ]
+  },
+  "075030": {
+   "comune": "Galatone",
+   "distretto": "LE-53",
+   "nome_confine": "Galatone",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.9587
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.0409
+    },
+    {
+     "lat": 40.15,
+     "lon": 17.95,
+     "peso": 0.0004
+    }
+   ]
+  },
+  "075031": {
+   "comune": "Gallipoli",
+   "distretto": "LE-56",
+   "nome_confine": "Gallipoli",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.7432
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.1797
+    },
+    {
+     "lat": 40.05,
+     "lon": 17.95,
+     "peso": 0.0534
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.014
+    },
+    {
+     "lat": 39.95,
+     "lon": 17.95,
+     "peso": 0.0096
+    }
+   ]
+  },
+  "075032": {
+   "comune": "Giuggianello",
+   "distretto": "LE-58",
+   "nome_confine": "Giuggianello",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.5336
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.3155
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.1509
+    }
+   ]
+  },
+  "075033": {
+   "comune": "Giurdignano",
+   "distretto": "LE-57",
+   "nome_confine": "Giurdignano",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075034": {
+   "comune": "Guagnano",
+   "distretto": "LE-52",
+   "nome_confine": "Guagnano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.6257
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.2442
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.1114
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.0187
+    }
+   ]
+  },
+  "075035": {
+   "comune": "Lecce",
+   "distretto": "LE-51",
+   "nome_confine": "Lecce",
+   "n_celle": 8,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 18.15,
+     "peso": 0.2648
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.2504
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.25,
+     "peso": 0.2314
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.25,
+     "peso": 0.1323
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.0853
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.0309
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.35,
+     "peso": 0.0034
+    },
+    {
+     "lat": 40.55,
+     "lon": 18.05,
+     "peso": 0.0016
+    }
+   ]
+  },
+  "075036": {
+   "comune": "Lequile",
+   "distretto": "LE-51",
+   "nome_confine": "Lequile",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.7989
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.1677
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.0333
+    }
+   ]
+  },
+  "075037": {
+   "comune": "Leverano",
+   "distretto": "LE-53",
+   "nome_confine": "Leverano",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 17.95,
+     "peso": 0.529
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.2715
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.1237
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.0692
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.0067
+    }
+   ]
+  },
+  "075038": {
+   "comune": "Lizzanello",
+   "distretto": "LE-51",
+   "nome_confine": "Lizzanello",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.25,
+     "peso": 0.8737
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.1263
+    }
+   ]
+  },
+  "075039": {
+   "comune": "Maglie",
+   "distretto": "LE-57",
+   "nome_confine": "Maglie",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.4561
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.4118
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.1296
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0024
+    }
+   ]
+  },
+  "075040": {
+   "comune": "Martano",
+   "distretto": "LE-54",
+   "nome_confine": "Martano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.4308
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.35,
+     "peso": 0.2608
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.2416
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.0668
+    }
+   ]
+  },
+  "075041": {
+   "comune": "Martignano",
+   "distretto": "LE-54",
+   "nome_confine": "Martignano",
+   "n_celle": 1,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 1.0
+    }
+   ]
+  },
+  "075042": {
+   "comune": "Matino",
+   "distretto": "LE-59",
+   "nome_confine": "Matino",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.7754
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.2157
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.0088
+    }
+   ]
+  },
+  "075043": {
+   "comune": "Melendugno",
+   "distretto": "LE-54",
+   "nome_confine": "Melendugno",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.35,
+     "peso": 0.5821
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.45,
+     "peso": 0.2913
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.35,
+     "peso": 0.1226
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.45,
+     "peso": 0.0026
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.0014
+    }
+   ]
+  },
+  "075044": {
+   "comune": "Melissano",
+   "distretto": "LE-56",
+   "nome_confine": "Melissano",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.9728
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.0161
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.0111
+    }
+   ]
+  },
+  "075045": {
+   "comune": "Melpignano",
+   "distretto": "LE-57",
+   "nome_confine": "Melpignano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.9713
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.0287
+    }
+   ]
+  },
+  "075046": {
+   "comune": "Miggiano",
+   "distretto": "LE-60",
+   "nome_confine": "Miggiano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.7371
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.2629
+    }
+   ]
+  },
+  "075047": {
+   "comune": "Minervino di Lecce",
+   "distretto": "LE-58",
+   "nome_confine": "Minervino di Lecce",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.6848
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.1661
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.137
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.0121
+    }
+   ]
+  },
+  "075048": {
+   "comune": "Monteroni di Lecce",
+   "distretto": "LE-51",
+   "nome_confine": "Monteroni di Lecce",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.6652
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.302
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.0328
+    }
+   ]
+  },
+  "075049": {
+   "comune": "Montesano Salentino",
+   "distretto": "LE-60",
+   "nome_confine": "Montesano Salentino",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.8333
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.1667
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0
+    }
+   ]
+  },
+  "075050": {
+   "comune": "Morciano di Leuca",
+   "distretto": "LE-60",
+   "nome_confine": "Morciano di Leuca",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.6473
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.3527
+    }
+   ]
+  },
+  "075051": {
+   "comune": "Muro Leccese",
+   "distretto": "LE-57",
+   "nome_confine": "Muro Leccese",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.781
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.219
+    }
+   ]
+  },
+  "075052": {
+   "comune": "Nardò",
+   "distretto": "LE-53",
+   "nome_confine": "Nardò",
+   "n_celle": 8,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 17.95,
+     "peso": 0.2821
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.1843
+    },
+    {
+     "lat": 40.15,
+     "lon": 17.95,
+     "peso": 0.175
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.1712
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.1442
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.85,
+     "peso": 0.0331
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.0065
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.0036
+    }
+   ]
+  },
+  "075053": {
+   "comune": "Neviano",
+   "distretto": "LE-55",
+   "nome_confine": "Neviano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.5403
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.4055
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.0304
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.0238
+    }
+   ]
+  },
+  "075054": {
+   "comune": "Nociglia",
+   "distretto": "LE-58",
+   "nome_confine": "Nociglia",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.9149
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.0486
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.0365
+    }
+   ]
+  },
+  "075055": {
+   "comune": "Novoli",
+   "distretto": "LE-52",
+   "nome_confine": "Novoli",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.9736
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.0264
+    }
+   ]
+  },
+  "075056": {
+   "comune": "Ortelle",
+   "distretto": "LE-58",
+   "nome_confine": "Ortelle",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.5875
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.4125
+    }
+   ]
+  },
+  "075057": {
+   "comune": "Otranto",
+   "distretto": "LE-57",
+   "nome_confine": "Otranto",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.6156
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.45,
+     "peso": 0.2226
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.0849
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.55,
+     "peso": 0.0705
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.55,
+     "peso": 0.0063
+    }
+   ]
+  },
+  "075058": {
+   "comune": "Palmariggi",
+   "distretto": "LE-57",
+   "nome_confine": "Palmariggi",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.8431
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.1569
+    }
+   ]
+  },
+  "075059": {
+   "comune": "Parabita",
+   "distretto": "LE-59",
+   "nome_confine": "Parabita",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.7075
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.2925
+    }
+   ]
+  },
+  "075060": {
+   "comune": "Patù",
+   "distretto": "LE-60",
+   "nome_confine": "Patù",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.9174
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.0826
+    }
+   ]
+  },
+  "075061": {
+   "comune": "Poggiardo",
+   "distretto": "LE-58",
+   "nome_confine": "Poggiardo",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.7776
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.2224
+    }
+   ]
+  },
+  "075063": {
+   "comune": "Racale",
+   "distretto": "LE-56",
+   "nome_confine": "Racale",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.858
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.142
+    }
+   ]
+  },
+  "075064": {
+   "comune": "Ruffano",
+   "distretto": "LE-59",
+   "nome_confine": "Ruffano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.7341
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.2301
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.0324
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.0034
+    }
+   ]
+  },
+  "075065": {
+   "comune": "Salice Salentino",
+   "distretto": "LE-52",
+   "nome_confine": "Salice Salentino",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.4907
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.4739
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.02
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.85,
+     "peso": 0.0124
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.003
+    }
+   ]
+  },
+  "075066": {
+   "comune": "Salve",
+   "distretto": "LE-60",
+   "nome_confine": "Salve",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.8649
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.1003
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.15,
+     "peso": 0.0348
+    }
+   ]
+  },
+  "075067": {
+   "comune": "Sanarica",
+   "distretto": "LE-58",
+   "nome_confine": "Sanarica",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.8579
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.1421
+    }
+   ]
+  },
+  "075068": {
+   "comune": "San Cesario di Lecce",
+   "distretto": "LE-51",
+   "nome_confine": "San Cesario di Lecce",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.618
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.382
+    }
+   ]
+  },
+  "075069": {
+   "comune": "San Donato di Lecce",
+   "distretto": "LE-51",
+   "nome_confine": "San Donato di Lecce",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.6972
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.3028
+    }
+   ]
+  },
+  "075070": {
+   "comune": "Sannicola",
+   "distretto": "LE-56",
+   "nome_confine": "Sannicola",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.6151
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.3849
+    }
+   ]
+  },
+  "075071": {
+   "comune": "San Pietro in Lama",
+   "distretto": "LE-51",
+   "nome_confine": "San Pietro in Lama",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.4031
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.05,
+     "peso": 0.3028
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.2811
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.0129
+    }
+   ]
+  },
+  "075072": {
+   "comune": "Santa Cesarea Terme",
+   "distretto": "LE-58",
+   "nome_confine": "Santa Cesarea Terme",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.9985
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0015
+    }
+   ]
+  },
+  "075073": {
+   "comune": "Scorrano",
+   "distretto": "LE-57",
+   "nome_confine": "Scorrano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.7759
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.1513
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.0617
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.35,
+     "peso": 0.0111
+    }
+   ]
+  },
+  "075074": {
+   "comune": "Seclì",
+   "distretto": "LE-53",
+   "nome_confine": "Seclì",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.7195
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.05,
+     "peso": 0.2805
+    }
+   ]
+  },
+  "075075": {
+   "comune": "Sogliano Cavour",
+   "distretto": "LE-55",
+   "nome_confine": "Sogliano Cavour",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.5138
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.4862
+    }
+   ]
+  },
+  "075076": {
+   "comune": "Soleto",
+   "distretto": "LE-55",
+   "nome_confine": "Soleto",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.3806
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.3769
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.15,
+     "peso": 0.1601
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.0824
+    }
+   ]
+  },
+  "075077": {
+   "comune": "Specchia",
+   "distretto": "LE-60",
+   "nome_confine": "Specchia",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.7412
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.2588
+    }
+   ]
+  },
+  "075078": {
+   "comune": "Spongano",
+   "distretto": "LE-58",
+   "nome_confine": "Spongano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.9498
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.0502
+    }
+   ]
+  },
+  "075079": {
+   "comune": "Squinzano",
+   "distretto": "LE-52",
+   "nome_confine": "Squinzano",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.7926
+    },
+    {
+     "lat": 40.45,
+     "lon": 17.95,
+     "peso": 0.0747
+    },
+    {
+     "lat": 40.55,
+     "lon": 18.15,
+     "peso": 0.0517
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.15,
+     "peso": 0.0458
+    },
+    {
+     "lat": 40.55,
+     "lon": 18.05,
+     "peso": 0.0353
+    }
+   ]
+  },
+  "075080": {
+   "comune": "Sternatia",
+   "distretto": "LE-54",
+   "nome_confine": "Sternatia",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.9067
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.15,
+     "peso": 0.0933
+    }
+   ]
+  },
+  "075081": {
+   "comune": "Supersano",
+   "distretto": "LE-59",
+   "nome_confine": "Supersano",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.9585
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0224
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.0115
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.0072
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.0003
+    }
+   ]
+  },
+  "075082": {
+   "comune": "Surano",
+   "distretto": "LE-58",
+   "nome_confine": "Surano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.9718
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.0282
+    }
+   ]
+  },
+  "075083": {
+   "comune": "Surbo",
+   "distretto": "LE-51",
+   "nome_confine": "Surbo",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 18.15,
+     "peso": 0.6334
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.15,
+     "peso": 0.3666
+    }
+   ]
+  },
+  "075084": {
+   "comune": "Taurisano",
+   "distretto": "LE-59",
+   "nome_confine": "Taurisano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.8825
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.1175
+    }
+   ]
+  },
+  "075085": {
+   "comune": "Taviano",
+   "distretto": "LE-56",
+   "nome_confine": "Taviano",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.7051
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.1853
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.0922
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.0174
+    }
+   ]
+  },
+  "075086": {
+   "comune": "Tiggiano",
+   "distretto": "LE-60",
+   "nome_confine": "Tiggiano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.6912
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.35,
+     "peso": 0.3088
+    }
+   ]
+  },
+  "075087": {
+   "comune": "Trepuzzi",
+   "distretto": "LE-52",
+   "nome_confine": "Trepuzzi",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.45,
+     "lon": 18.05,
+     "peso": 0.7132
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.1486
+    },
+    {
+     "lat": 40.45,
+     "lon": 18.15,
+     "peso": 0.1382
+    }
+   ]
+  },
+  "075088": {
+   "comune": "Tricase",
+   "distretto": "LE-60",
+   "nome_confine": "Tricase",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.35,
+     "peso": 0.992
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.45,
+     "peso": 0.008
+    }
+   ]
+  },
+  "075089": {
+   "comune": "Tuglie",
+   "distretto": "LE-56",
+   "nome_confine": "Tuglie",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.05,
+     "peso": 0.6139
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.15,
+     "peso": 0.3861
+    }
+   ]
+  },
+  "075090": {
+   "comune": "Ugento",
+   "distretto": "LE-60",
+   "nome_confine": "Ugento",
+   "n_celle": 6,
+   "celle": [
+    {
+     "lat": 39.95,
+     "lon": 18.15,
+     "peso": 0.612
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.15,
+     "peso": 0.3162
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.0431
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.0187
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.05,
+     "peso": 0.0075
+    },
+    {
+     "lat": 39.85,
+     "lon": 18.05,
+     "peso": 0.0025
+    }
+   ]
+  },
+  "075091": {
+   "comune": "Uggiano La Chiesa",
+   "distretto": "LE-58",
+   "nome_confine": "Uggiano La Chiesa",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.15,
+     "lon": 18.45,
+     "peso": 0.7136
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.2864
+    }
+   ]
+  },
+  "075092": {
+   "comune": "Veglie",
+   "distretto": "LE-52",
+   "nome_confine": "Veglie",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 17.95,
+     "peso": 0.6429
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.3506
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.05,
+     "peso": 0.0065
+    }
+   ]
+  },
+  "075093": {
+   "comune": "Vernole",
+   "distretto": "LE-54",
+   "nome_confine": "Vernole",
+   "n_celle": 4,
+   "celle": [
+    {
+     "lat": 40.35,
+     "lon": 18.35,
+     "peso": 0.5655
+    },
+    {
+     "lat": 40.35,
+     "lon": 18.25,
+     "peso": 0.2549
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.0913
+    },
+    {
+     "lat": 40.25,
+     "lon": 18.35,
+     "peso": 0.0883
+    }
+   ]
+  },
+  "075094": {
+   "comune": "Zollino",
+   "distretto": "LE-54",
+   "nome_confine": "Zollino",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 18.25,
+     "peso": 0.6455
+    },
+    {
+     "lat": 40.15,
+     "lon": 18.25,
+     "peso": 0.3545
+    }
+   ]
+  },
+  "075095": {
+   "comune": "San Cassiano",
+   "distretto": "LE-58",
+   "nome_confine": "San Cassiano",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.8811
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.25,
+     "peso": 0.1189
+    }
+   ]
+  },
+  "075096": {
+   "comune": "Castro",
+   "distretto": "LE-58",
+   "nome_confine": "Castro",
+   "n_celle": 3,
+   "celle": [
+    {
+     "lat": 40.05,
+     "lon": 18.45,
+     "peso": 0.8805
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.45,
+     "peso": 0.1109
+    },
+    {
+     "lat": 40.05,
+     "lon": 18.35,
+     "peso": 0.0085
+    }
+   ]
+  },
+  "075097": {
+   "comune": "Porto Cesareo",
+   "distretto": "LE-53",
+   "nome_confine": "Porto Cesareo",
+   "n_celle": 5,
+   "celle": [
+    {
+     "lat": 40.25,
+     "lon": 17.85,
+     "peso": 0.3865
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.75,
+     "peso": 0.2074
+    },
+    {
+     "lat": 40.35,
+     "lon": 17.85,
+     "peso": 0.1923
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.95,
+     "peso": 0.1448
+    },
+    {
+     "lat": 40.25,
+     "lon": 17.75,
+     "peso": 0.069
+    }
+   ]
+  },
+  "075098": {
+   "comune": "Presicce-Acquarica",
+   "distretto": "LE-60",
+   "nome_confine": "Presicce-Acquarica",
+   "n_celle": 2,
+   "celle": [
+    {
+     "lat": 39.85,
+     "lon": 18.25,
+     "peso": 0.5531
+    },
+    {
+     "lat": 39.95,
+     "lon": 18.25,
+     "peso": 0.4469
+    }
+   ]
+  }
+ }
+}

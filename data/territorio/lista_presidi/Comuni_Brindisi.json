@@ -1,0 +1,26 @@
+{
+  "provincia": "Brindisi",
+  "comuni": [
+    {"pos": 1, "comune": "Brindisi", "residenti": 87820, "densita_kmq": 267.4, "famiglie": 35866},
+    {"pos": 2, "comune": "Fasano", "residenti": 39749, "densita_kmq": 308.4, "famiglie": 15737},
+    {"pos": 3, "comune": "Francavilla Fontana", "residenti": 36571, "densita_kmq": 208.6, "famiglie": 13567},
+    {"pos": 4, "comune": "Ostuni", "residenti": 31148, "densita_kmq": 139.2, "famiglie": 13159},
+    {"pos": 5, "comune": "Mesagne", "residenti": 26985, "densita_kmq": 220.0, "famiglie": 10980},
+    {"pos": 6, "comune": "Ceglie Messapica", "residenti": 19965, "densita_kmq": 153.2, "famiglie": 8505},
+    {"pos": 7, "comune": "San Vito dei Normanni", "residenti": 19302, "densita_kmq": 290.8, "famiglie": 7571},
+    {"pos": 8, "comune": "Carovigno", "residenti": 16858, "densita_kmq": 159.8, "famiglie": 6683},
+    {"pos": 9, "comune": "Oria", "residenti": 15167, "densita_kmq": 181.7, "famiglie": 5935},
+    {"pos": 10, "comune": "Latiano", "residenti": 14594, "densita_kmq": 266.4, "famiglie": 5560},
+    {"pos": 11, "comune": "San Pietro Vernotico", "residenti": 13684, "densita_kmq": 297.0, "famiglie": 5141},
+    {"pos": 12, "comune": "Cisternino", "residenti": 11600, "densita_kmq": 214.6, "famiglie": 4845},
+    {"pos": 13, "comune": "Torre Santa Susanna", "residenti": 10537, "densita_kmq": 191.3, "famiglie": 3902},
+    {"pos": 14, "comune": "San Pancrazio Salentino", "residenti": 9975, "densita_kmq": 178.3, "famiglie": 3760},
+    {"pos": 15, "comune": "Villa Castelli", "residenti": 9346, "densita_kmq": 268.4, "famiglie": 2920},
+    {"pos": 16, "comune": "Erchie", "residenti": 8772, "densita_kmq": 199.0, "famiglie": 3026},
+    {"pos": 17, "comune": "San Donaci", "residenti": 6669, "densita_kmq": 194.9, "famiglie": 2568},
+    {"pos": 18, "comune": "Cellino San Marco", "residenti": 6584, "densita_kmq": 175.8, "famiglie": 2652},
+    {"pos": 19, "comune": "San Michele Salentino", "residenti": 6298, "densita_kmq": 240.6, "famiglie": 2449},
+    {"pos": 20, "comune": "Torchiarolo", "residenti": 5459, "densita_kmq": 169.6, "famiglie": 2335}
+  ],
+  "totale": {"residenti": 397083, "famiglie": 157161}
+}

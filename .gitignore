@@ -1,0 +1,12 @@
+# Dati scaricati e generati: il repository non contiene dati (v. docs/Architettura.md)
+data/raw/
+data/interim/
+data/dataset/*/report/
+
+# Chiavi locali
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/

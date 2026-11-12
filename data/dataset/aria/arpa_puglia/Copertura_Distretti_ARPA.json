@@ -1,0 +1,1138 @@
+{
+  "descrizione": "Stazioni ARPA Puglia (anagrafica fornita il 27/09/2026) associate ai distretti socio-sanitari del Salento, con gli inquinanti realmente misurati nel 2023 (se disponibili)",
+  "fonte_stazioni": "data/dataset/aria/arpa_puglia/stazioni_di_monitoraggio.json",
+  "fonte_inquinanti_osservati": "data/raw/aria/arpa_puglia/qualita_aria_2023_salento.json",
+  "n_distretti_totali": 20,
+  "n_distretti_coperti": 12,
+  "n_distretti_non_coperti": 8,
+  "distretti_non_coperti": [
+    {
+      "id_distretto": "LE-53",
+      "denominazione": "DISTRETTO 53",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "LE-54",
+      "denominazione": "DISTRETTO 54",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "LE-56",
+      "denominazione": "DISTRETTO 56",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "LE-58",
+      "denominazione": "DISTRETTO 58",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "LE-59",
+      "denominazione": "DISTRETTO 59",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "LE-60",
+      "denominazione": "DISTRETTO 60",
+      "provincia": "LE"
+    },
+    {
+      "id_distretto": "TA-01",
+      "denominazione": "DISTRETTO 1",
+      "provincia": "TA"
+    },
+    {
+      "id_distretto": "TA-07",
+      "denominazione": "DISTRETTO 7",
+      "provincia": "TA"
+    }
+  ],
+  "distretti": [
+    {
+      "id_distretto": "BR-01",
+      "denominazione": "DISTRETTO 1",
+      "provincia": "BR",
+      "n_stazioni": 13,
+      "stazioni": [
+        {
+          "id_station": "24",
+          "denominazione": "Brindisi - Via Taranto",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.947777,
+          "lat": 40.634167,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "33",
+          "denominazione": "Brindisi - Via dei Mille",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.938152,
+          "lat": 40.63875,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "35",
+          "denominazione": "Brindisi - Casale",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.94257,
+          "lat": 40.65008,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "36",
+          "denominazione": "Brindisi - SISRI",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.97504,
+          "lat": 40.624737,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "67",
+          "denominazione": "Brindisi - Terminal Passeggeri",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.961687,
+          "lat": 40.64743,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "77",
+          "denominazione": "Brindisi - Perrino",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.954779,
+          "lat": 40.63136,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "78",
+          "denominazione": "Brindisi - Cappuccini",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "IL",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.921778,
+          "lat": 40.630917,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "114",
+          "denominazione": "C1 - Lato sud ovest impianti, Area imprese",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.990417,
+          "lat": 40.628028,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "115",
+          "denominazione": "C2 - Area bacino idrico",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.9885,
+          "lat": 40.638889,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "116",
+          "denominazione": "C3 - Area impianto P1CR Cracking",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.998139,
+          "lat": 40.638139,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "117",
+          "denominazione": "C4 - Area impianto Butadiene",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 18.002444,
+          "lat": 40.634444,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2"
+          ]
+        },
+        {
+          "id_station": "118",
+          "denominazione": "C5 - Area Pontile",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.989981,
+          "lat": 40.64545,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "119",
+          "denominazione": "C6 - Area PE1/2 lato sud impianti",
+          "comune": "Brindisi",
+          "provincia": "Brindisi",
+          "rete": "VERSALIS",
+          "interesse_rete": "PRIVATO",
+          "lon": 18.001614,
+          "lat": 40.623753,
+          "id_distretto": "BR-01",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "IPA",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "BR-02",
+      "denominazione": "DISTRETTO 2",
+      "provincia": "BR",
+      "n_stazioni": 1,
+      "stazioni": [
+        {
+          "id_station": "108",
+          "denominazione": "Cisternino",
+          "comune": "Cisternino",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.415833,
+          "lat": 40.74278,
+          "id_distretto": "BR-02",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "O3",
+            "PM10",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "NO2",
+        "O3",
+        "PM10",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "BR-03",
+      "denominazione": "DISTRETTO 3",
+      "provincia": "BR",
+      "n_stazioni": 2,
+      "stazioni": [
+        {
+          "id_station": "72",
+          "denominazione": "Francavilla Fontana",
+          "comune": "Francavilla Fontana",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.588331,
+          "lat": 40.529163,
+          "id_distretto": "BR-03",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "96",
+          "denominazione": "Ceglie Messapica",
+          "comune": "Ceglie Messapica",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.5125,
+          "lat": 40.649166,
+          "id_distretto": "BR-03",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "NO2",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "BR-04",
+      "denominazione": "DISTRETTO 4",
+      "provincia": "BR",
+      "n_stazioni": 6,
+      "stazioni": [
+        {
+          "id_station": "23",
+          "denominazione": "Mesagne - Via Udine",
+          "comune": "Mesagne",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.807999,
+          "lat": 40.565994,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "25",
+          "denominazione": "San Pancrazio",
+          "comune": "San Pancrazio Salentino",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.845999,
+          "lat": 40.422993,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "26",
+          "denominazione": "San Pietro Vernotico",
+          "comune": "San Pietro Vernotico",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.005995,
+          "lat": 40.485996,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "27",
+          "denominazione": "Torchiarolo - Don Minzoni",
+          "comune": "Torchiarolo",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.053991,
+          "lat": 40.488,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "93",
+          "denominazione": "Torchiarolo - Fanin     ",
+          "comune": "Torchiarolo",
+          "provincia": "Brindisi",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.047226,
+          "lat": 40.48945,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "94",
+          "denominazione": "Torchiarolo-Lendinuso",
+          "comune": "Torchiarolo",
+          "provincia": "Brindisi",
+          "rete": "IL",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.07888,
+          "lat": 40.5175,
+          "id_distretto": "BR-04",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "IPA",
+        "NO2",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "LE-51",
+      "denominazione": "DISTRETTO 51",
+      "provincia": "LE",
+      "n_stazioni": 5,
+      "stazioni": [
+        {
+          "id_station": "29",
+          "denominazione": "Lecce - Cerrate",
+          "comune": "Lecce",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.116386,
+          "lat": 40.459698,
+          "id_distretto": "LE-51",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "31",
+          "denominazione": "Arnesano - Riesci",
+          "comune": "Arnesano",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.095074,
+          "lat": 40.34627,
+          "id_distretto": "LE-51",
+          "inquinanti_osservati_2023": [
+            "O3",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "47",
+          "denominazione": "Lecce - Garigliano",
+          "comune": "Lecce",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.174328,
+          "lat": 40.364456,
+          "id_distretto": "LE-51",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "62",
+          "denominazione": "Lecce - Libertini",
+          "comune": "Lecce",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.176666,
+          "lat": 40.351944,
+          "id_distretto": "LE-51",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "95",
+          "denominazione": "Surbo - Croce ",
+          "comune": "Surbo",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.120834,
+          "lat": 40.41194,
+          "id_distretto": "LE-51",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "LE-52",
+      "denominazione": "DISTRETTO 52",
+      "provincia": "LE",
+      "n_stazioni": 2,
+      "stazioni": [
+        {
+          "id_station": "28",
+          "denominazione": "Guagnano - Villa Baldassarri",
+          "comune": "Guagnano",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.964478,
+          "lat": 40.418526,
+          "id_distretto": "LE-52",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10"
+          ]
+        },
+        {
+          "id_station": "51",
+          "denominazione": "Campi Salentina",
+          "comune": "Campi Salentina",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.026508,
+          "lat": 40.397507,
+          "id_distretto": "LE-52",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10",
+            "PM2.5"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "NO2",
+        "PM10",
+        "PM2.5"
+      ]
+    },
+    {
+      "id_distretto": "LE-53",
+      "denominazione": "DISTRETTO 53",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "LE-54",
+      "denominazione": "DISTRETTO 54",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "LE-55",
+      "denominazione": "DISTRETTO 55",
+      "provincia": "LE",
+      "n_stazioni": 2,
+      "stazioni": [
+        {
+          "id_station": "50",
+          "denominazione": "Galatina - I.T.C.  La Porta ",
+          "comune": "Galatina",
+          "provincia": "Lecce",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.174725,
+          "lat": 40.166946,
+          "id_distretto": "LE-55",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5"
+          ]
+        },
+        {
+          "id_station": "113",
+          "denominazione": "Galatina-Colacem",
+          "comune": "Galatina",
+          "provincia": "Lecce",
+          "rete": "IL",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.192856,
+          "lat": 40.163963,
+          "id_distretto": "LE-55",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "LE-56",
+      "denominazione": "DISTRETTO 56",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "LE-57",
+      "denominazione": "DISTRETTO 57",
+      "provincia": "LE",
+      "n_stazioni": 1,
+      "stazioni": [
+        {
+          "id_station": "49",
+          "denominazione": "Maglie",
+          "comune": "Maglie",
+          "provincia": "Lecce",
+          "rete": "IL",
+          "interesse_rete": "PUBBLICO",
+          "lon": 18.294098,
+          "lat": 40.123634,
+          "id_distretto": "LE-57",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "CO",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "LE-58",
+      "denominazione": "DISTRETTO 58",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "LE-59",
+      "denominazione": "DISTRETTO 59",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "LE-60",
+      "denominazione": "DISTRETTO 60",
+      "provincia": "LE",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "TA-01",
+      "denominazione": "DISTRETTO 1",
+      "provincia": "TA",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "TA-02",
+      "denominazione": "DISTRETTO 2",
+      "provincia": "TA",
+      "n_stazioni": 3,
+      "stazioni": [
+        {
+          "id_station": "18",
+          "denominazione": "Statte - Sorgenti",
+          "comune": "Statte",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.203325,
+          "lat": 40.5625,
+          "id_distretto": "TA-02",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "H2S",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "40",
+          "denominazione": "Statte - Wind",
+          "comune": "Statte",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.17361,
+          "lat": 40.52611,
+          "id_distretto": "TA-02",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "75",
+          "denominazione": "Massafra",
+          "comune": "Massafra",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.11669,
+          "lat": 40.59376,
+          "id_distretto": "TA-02",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "NO2",
+            "PM10",
+            "SO2"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "H2S",
+        "IPA",
+        "NO2",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    },
+    {
+      "id_distretto": "TA-05",
+      "denominazione": "DISTRETTO 5",
+      "provincia": "TA",
+      "n_stazioni": 1,
+      "stazioni": [
+        {
+          "id_station": "42",
+          "denominazione": "Martina Franca",
+          "comune": "Martina Franca",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.33194,
+          "lat": 40.700825,
+          "id_distretto": "TA-05",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "NO2",
+            "PM10"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "NO2",
+        "PM10"
+      ]
+    },
+    {
+      "id_distretto": "TA-06",
+      "denominazione": "DISTRETTO 6",
+      "provincia": "TA",
+      "n_stazioni": 1,
+      "stazioni": [
+        {
+          "id_station": "41",
+          "denominazione": "Grottaglie",
+          "comune": "Grottaglie",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.42388,
+          "lat": 40.537777,
+          "id_distretto": "TA-06",
+          "inquinanti_osservati_2023": [
+            "NO2",
+            "O3",
+            "PM10"
+          ]
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "NO2",
+        "O3",
+        "PM10"
+      ]
+    },
+    {
+      "id_distretto": "TA-07",
+      "denominazione": "DISTRETTO 7",
+      "provincia": "TA",
+      "n_stazioni": 0,
+      "stazioni": [],
+      "inquinanti_osservati_2023": []
+    },
+    {
+      "id_distretto": "TA-08",
+      "denominazione": "DISTRETTO 8",
+      "provincia": "TA",
+      "n_stazioni": 12,
+      "stazioni": [
+        {
+          "id_station": "19",
+          "denominazione": "Taranto - Archimede",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.233047,
+          "lat": 40.494442,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "H2S",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "20",
+          "denominazione": "Taranto - Machiavelli",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.225822,
+          "lat": 40.48861,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "21",
+          "denominazione": "Taranto - San Vito",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.225271,
+          "lat": 40.42333,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "CO",
+            "IPA",
+            "NO2",
+            "O3",
+            "PM10",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "22",
+          "denominazione": "Taranto - Alto Adige",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.263601,
+          "lat": 40.460552,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "37",
+          "denominazione": "Taranto - CISI",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.253416,
+          "lat": 40.520935,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "C6H6",
+            "CO",
+            "H2S",
+            "IPA",
+            "NO2",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "38",
+          "denominazione": "Taranto - Talsano",
+          "comune": "Taranto",
+          "provincia": "Taranto",
+          "rete": "RRQA",
+          "interesse_rete": "PUBBLICO",
+          "lon": 17.283878,
+          "lat": 40.41194,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": [
+            "IPA",
+            "NO2",
+            "O3",
+            "PM10",
+            "PM2.5",
+            "SO2"
+          ]
+        },
+        {
+          "id_station": "100",
+          "denominazione": "Cokeria",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.21763,
+          "lat": 40.50205,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        },
+        {
+          "id_station": "101",
+          "denominazione": "Tamburi - Via Orsini",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.22583,
+          "lat": 40.49451,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        },
+        {
+          "id_station": "102",
+          "denominazione": "Riv1",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.2169,
+          "lat": 40.51857,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        },
+        {
+          "id_station": "103",
+          "denominazione": "Direzione",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.20055,
+          "lat": 40.50198,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        },
+        {
+          "id_station": "104",
+          "denominazione": "Meteo Parchi",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.22218,
+          "lat": 40.49673,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        },
+        {
+          "id_station": "105",
+          "denominazione": "Portineria C",
+          "comune": "Taranto",
+          "provincia": "ILVA",
+          "rete": "ADI",
+          "interesse_rete": "PRIVATO",
+          "lon": 17.18656,
+          "lat": 40.5189,
+          "id_distretto": "TA-08",
+          "inquinanti_osservati_2023": []
+        }
+      ],
+      "inquinanti_osservati_2023": [
+        "C6H6",
+        "CO",
+        "H2S",
+        "IPA",
+        "NO2",
+        "O3",
+        "PM10",
+        "PM2.5",
+        "SO2"
+      ]
+    }
+  ],
+  "stazioni_senza_distretto": []
+}

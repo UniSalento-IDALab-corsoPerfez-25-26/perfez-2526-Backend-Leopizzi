@@ -1,0 +1,2500 @@
+{
+ "descrizione": "Fattori di mitigazione dell'UHRI per comune: media % sui pixel da 10 m del confine comunale. Generato da scripts/calore/calcola_mitigazione_comuni.py.",
+ "generato_il": "2026-10-16",
+ "licenza": "Copernicus Land Monitoring Service: accesso pieno, libero e gratuito (Reg. delegato UE 1159/2013); obbligo di citare la fonte e di dichiarare le modifiche.",
+ "prodotti": {
+  "copertura_arborea": {
+   "nome": "Tree Cover Density 2018-present (raster 10 m), Europe, yearly — edizione 2024",
+   "servizio": null,
+   "id_prodotto": "CLMS_HRLVLCC_TCD_ITF4_0",
+   "edizione": 2024,
+   "scheda_eea": null,
+   "pagina_clms": "https://land.copernicus.eu/en/products/high-resolution-layer-forests-and-tree-cover/tree-cover-density-2018-present-raster-10-m-europe-yearly",
+   "usato": {
+    "canale": "file locale dal portale CLMS",
+    "edizione": 2024,
+    "id_prodotto": "CLMS_HRLVLCC_TCD_ITF4_0 (Tree Cover Density 2024, 10 m, Puglia)"
+   }
+  },
+  "suolo_impermeabile": {
+   "nome": "Imperviousness Density 2018 (raster 10 m)",
+   "servizio": "HRL_ImperviousnessDensity_2018",
+   "id_prodotto": "copernicus_r_3035_10_m_imd-2018_p_2017-2018_v01_r00",
+   "edizione": 2018,
+   "scheda_eea": "https://sdi.eea.europa.eu/catalogue/srv/api/records/3bf542bd-eebd-4d73-b53c-a0243f2ed862",
+   "pagina_clms": "https://land.copernicus.eu/en/products/high-resolution-layer-imperviousness/imperviousness-density-2018",
+   "usato": {
+    "canale": "file locale dal portale CLMS",
+    "edizione": 2018,
+    "id_prodotto": "IMD_2018_010m_it_03035_v020 (Imperviousness Density 2018, 10 m, Italia)"
+   }
+  }
+ },
+ "comuni": {
+  "073001": {
+   "denominazione": "Avetrana",
+   "copertura_arborea": {
+    "valore": 19.5,
+    "pixel": 732399,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 732399 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.53,
+    "pixel": 732399,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 732399 pixel da 10 m"
+   }
+  },
+  "073002": {
+   "denominazione": "Carosino",
+   "copertura_arborea": {
+    "valore": 3.21,
+    "pixel": 109010,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109010 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.3,
+    "pixel": 109010,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109010 pixel da 10 m"
+   }
+  },
+  "073003": {
+   "denominazione": "Castellaneta",
+   "copertura_arborea": {
+    "valore": 12.47,
+    "pixel": 2399443,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2399443 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.17,
+    "pixel": 2399443,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2399443 pixel da 10 m"
+   }
+  },
+  "073004": {
+   "denominazione": "Crispiano",
+   "copertura_arborea": {
+    "valore": 15.85,
+    "pixel": 1110468,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1110468 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.21,
+    "pixel": 1110468,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1110468 pixel da 10 m"
+   }
+  },
+  "073005": {
+   "denominazione": "Faggiano",
+   "copertura_arborea": {
+    "valore": 6.98,
+    "pixel": 211299,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 211299 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.0,
+    "pixel": 211299,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 211299 pixel da 10 m"
+   }
+  },
+  "073006": {
+   "denominazione": "Fragagnano",
+   "copertura_arborea": {
+    "valore": 8.69,
+    "pixel": 223057,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 223057 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.4,
+    "pixel": 223057,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 223057 pixel da 10 m"
+   }
+  },
+  "073007": {
+   "denominazione": "Ginosa",
+   "copertura_arborea": {
+    "valore": 10.72,
+    "pixel": 1869966,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1869966 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.11,
+    "pixel": 1869966,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1869966 pixel da 10 m"
+   }
+  },
+  "073008": {
+   "denominazione": "Grottaglie",
+   "copertura_arborea": {
+    "valore": 6.8,
+    "pixel": 1004218,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1004218 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.47,
+    "pixel": 1004218,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1004218 pixel da 10 m"
+   }
+  },
+  "073009": {
+   "denominazione": "Laterza",
+   "copertura_arborea": {
+    "valore": 10.72,
+    "pixel": 1594199,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1594199 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.5,
+    "pixel": 1594199,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1594199 pixel da 10 m"
+   }
+  },
+  "073010": {
+   "denominazione": "Leporano",
+   "copertura_arborea": {
+    "valore": 5.08,
+    "pixel": 150870,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 150870 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.83,
+    "pixel": 150870,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 150870 pixel da 10 m"
+   }
+  },
+  "073011": {
+   "denominazione": "Lizzano",
+   "copertura_arborea": {
+    "valore": 11.09,
+    "pixel": 463058,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 463058 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.62,
+    "pixel": 463058,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 463058 pixel da 10 m"
+   }
+  },
+  "073012": {
+   "denominazione": "Manduria",
+   "copertura_arborea": {
+    "valore": 13.4,
+    "pixel": 1783790,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1783790 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.14,
+    "pixel": 1783790,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1783790 pixel da 10 m"
+   }
+  },
+  "073013": {
+   "denominazione": "Martina Franca",
+   "copertura_arborea": {
+    "valore": 26.82,
+    "pixel": 2958388,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2958388 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.2,
+    "pixel": 2958388,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2958388 pixel da 10 m"
+   }
+  },
+  "073014": {
+   "denominazione": "Maruggio",
+   "copertura_arborea": {
+    "valore": 16.3,
+    "pixel": 484574,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 484574 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.57,
+    "pixel": 484574,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 484574 pixel da 10 m"
+   }
+  },
+  "073015": {
+   "denominazione": "Massafra",
+   "copertura_arborea": {
+    "valore": 26.11,
+    "pixel": 1270012,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1270012 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.74,
+    "pixel": 1270012,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1270012 pixel da 10 m"
+   }
+  },
+  "073016": {
+   "denominazione": "Monteiasi",
+   "copertura_arborea": {
+    "valore": 9.89,
+    "pixel": 96647,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 96647 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.51,
+    "pixel": 96647,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 96647 pixel da 10 m"
+   }
+  },
+  "073017": {
+   "denominazione": "Montemesola",
+   "copertura_arborea": {
+    "valore": 7.95,
+    "pixel": 162784,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 162784 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.56,
+    "pixel": 162784,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 162784 pixel da 10 m"
+   }
+  },
+  "073018": {
+   "denominazione": "Monteparano",
+   "copertura_arborea": {
+    "valore": 2.13,
+    "pixel": 37469,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 37469 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.45,
+    "pixel": 37469,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 37469 pixel da 10 m"
+   }
+  },
+  "073019": {
+   "denominazione": "Mottola",
+   "copertura_arborea": {
+    "valore": 17.8,
+    "pixel": 2109336,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2109336 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.44,
+    "pixel": 2109336,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2109336 pixel da 10 m"
+   }
+  },
+  "073020": {
+   "denominazione": "Palagianello",
+   "copertura_arborea": {
+    "valore": 22.73,
+    "pixel": 436374,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 436374 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.94,
+    "pixel": 436374,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 436374 pixel da 10 m"
+   }
+  },
+  "073021": {
+   "denominazione": "Palagiano",
+   "copertura_arborea": {
+    "valore": 34.95,
+    "pixel": 693735,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 693735 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.22,
+    "pixel": 693735,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 693735 pixel da 10 m"
+   }
+  },
+  "073022": {
+   "denominazione": "Pulsano",
+   "copertura_arborea": {
+    "valore": 6.61,
+    "pixel": 187232,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 187232 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.21,
+    "pixel": 187232,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 187232 pixel da 10 m"
+   }
+  },
+  "073023": {
+   "denominazione": "Roccaforzata",
+   "copertura_arborea": {
+    "valore": 2.96,
+    "pixel": 61072,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 61072 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.98,
+    "pixel": 61072,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 61072 pixel da 10 m"
+   }
+  },
+  "073024": {
+   "denominazione": "San Giorgio Ionico",
+   "copertura_arborea": {
+    "valore": 3.94,
+    "pixel": 233252,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233252 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.24,
+    "pixel": 233252,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233252 pixel da 10 m"
+   }
+  },
+  "073025": {
+   "denominazione": "San Marzano di San Giuseppe",
+   "copertura_arborea": {
+    "valore": 13.9,
+    "pixel": 190879,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 190879 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.53,
+    "pixel": 190879,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 190879 pixel da 10 m"
+   }
+  },
+  "073026": {
+   "denominazione": "Sava",
+   "copertura_arborea": {
+    "valore": 17.17,
+    "pixel": 439708,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 439708 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.09,
+    "pixel": 439708,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 439708 pixel da 10 m"
+   }
+  },
+  "073027": {
+   "denominazione": "Taranto",
+   "copertura_arborea": {
+    "valore": 4.48,
+    "pixel": 2465815,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2465815 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 14.18,
+    "pixel": 2465815,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2465815 pixel da 10 m"
+   }
+  },
+  "073028": {
+   "denominazione": "Torricella",
+   "copertura_arborea": {
+    "valore": 12.02,
+    "pixel": 267434,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 267434 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.44,
+    "pixel": 267434,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 267434 pixel da 10 m"
+   }
+  },
+  "073029": {
+   "denominazione": "Statte",
+   "copertura_arborea": {
+    "valore": 13.1,
+    "pixel": 665133,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 665133 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.84,
+    "pixel": 665133,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 665133 pixel da 10 m"
+   }
+  },
+  "074001": {
+   "denominazione": "Brindisi",
+   "copertura_arborea": {
+    "valore": 5.0,
+    "pixel": 3290119,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 3290119 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.51,
+    "pixel": 3290119,
+    "pixel_fuori_scala": 4,
+    "stato": "VALORE",
+    "nota": "media su 3290115 pixel da 10 m; 4 pixel fuori scala esclusi"
+   }
+  },
+  "074002": {
+   "denominazione": "Carovigno",
+   "copertura_arborea": {
+    "valore": 24.14,
+    "pixel": 1054046,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1054046 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.95,
+    "pixel": 1054046,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1054046 pixel da 10 m"
+   }
+  },
+  "074003": {
+   "denominazione": "Ceglie Messapica",
+   "copertura_arborea": {
+    "valore": 32.92,
+    "pixel": 1299987,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1299987 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.52,
+    "pixel": 1299987,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1299987 pixel da 10 m"
+   }
+  },
+  "074004": {
+   "denominazione": "Cellino San Marco",
+   "copertura_arborea": {
+    "valore": 11.86,
+    "pixel": 372343,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 372343 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.26,
+    "pixel": 372343,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 372343 pixel da 10 m"
+   }
+  },
+  "074005": {
+   "denominazione": "Cisternino",
+   "copertura_arborea": {
+    "valore": 21.41,
+    "pixel": 534500,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 534500 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.41,
+    "pixel": 534500,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 534500 pixel da 10 m"
+   }
+  },
+  "074006": {
+   "denominazione": "Erchie",
+   "copertura_arborea": {
+    "valore": 22.97,
+    "pixel": 440517,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 440517 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.48,
+    "pixel": 440517,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 440517 pixel da 10 m"
+   }
+  },
+  "074007": {
+   "denominazione": "Fasano",
+   "copertura_arborea": {
+    "valore": 21.32,
+    "pixel": 1304497,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1304497 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.97,
+    "pixel": 1304497,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1304497 pixel da 10 m"
+   }
+  },
+  "074008": {
+   "denominazione": "Francavilla Fontana",
+   "copertura_arborea": {
+    "valore": 21.99,
+    "pixel": 1758822,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1758822 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.58,
+    "pixel": 1758822,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1758822 pixel da 10 m"
+   }
+  },
+  "074009": {
+   "denominazione": "Latiano",
+   "copertura_arborea": {
+    "valore": 24.86,
+    "pixel": 542689,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 542689 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.09,
+    "pixel": 542689,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 542689 pixel da 10 m"
+   }
+  },
+  "074010": {
+   "denominazione": "Mesagne",
+   "copertura_arborea": {
+    "valore": 14.46,
+    "pixel": 1227010,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1227010 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.1,
+    "pixel": 1227010,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1227010 pixel da 10 m"
+   }
+  },
+  "074011": {
+   "denominazione": "Oria",
+   "copertura_arborea": {
+    "valore": 18.42,
+    "pixel": 825481,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 825481 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.46,
+    "pixel": 825481,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 825481 pixel da 10 m"
+   }
+  },
+  "074012": {
+   "denominazione": "Ostuni",
+   "copertura_arborea": {
+    "valore": 25.0,
+    "pixel": 2233244,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2233244 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.42,
+    "pixel": 2233244,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2233244 pixel da 10 m"
+   }
+  },
+  "074013": {
+   "denominazione": "San Donaci",
+   "copertura_arborea": {
+    "valore": 10.29,
+    "pixel": 337680,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 337680 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.65,
+    "pixel": 337680,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 337680 pixel da 10 m"
+   }
+  },
+  "074014": {
+   "denominazione": "San Michele Salentino",
+   "copertura_arborea": {
+    "valore": 32.85,
+    "pixel": 263437,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 263437 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.33,
+    "pixel": 263437,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 263437 pixel da 10 m"
+   }
+  },
+  "074015": {
+   "denominazione": "San Pancrazio Salentino",
+   "copertura_arborea": {
+    "valore": 13.0,
+    "pixel": 561872,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 561872 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.43,
+    "pixel": 561872,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 561872 pixel da 10 m"
+   }
+  },
+  "074016": {
+   "denominazione": "San Pietro Vernotico",
+   "copertura_arborea": {
+    "valore": 9.02,
+    "pixel": 461966,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 461966 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.36,
+    "pixel": 461966,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 461966 pixel da 10 m"
+   }
+  },
+  "074017": {
+   "denominazione": "San Vito dei Normanni",
+   "copertura_arborea": {
+    "valore": 27.25,
+    "pixel": 662622,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 662622 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.72,
+    "pixel": 662622,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 662622 pixel da 10 m"
+   }
+  },
+  "074018": {
+   "denominazione": "Torchiarolo",
+   "copertura_arborea": {
+    "valore": 12.61,
+    "pixel": 323594,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 323594 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.98,
+    "pixel": 323594,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 323594 pixel da 10 m"
+   }
+  },
+  "074019": {
+   "denominazione": "Torre Santa Susanna",
+   "copertura_arborea": {
+    "valore": 15.92,
+    "pixel": 549060,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 549060 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.61,
+    "pixel": 549060,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 549060 pixel da 10 m"
+   }
+  },
+  "074020": {
+   "denominazione": "Villa Castelli",
+   "copertura_arborea": {
+    "valore": 24.83,
+    "pixel": 345661,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 345661 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.76,
+    "pixel": 345661,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 345661 pixel da 10 m"
+   }
+  },
+  "075002": {
+   "denominazione": "Alessano",
+   "copertura_arborea": {
+    "valore": 13.28,
+    "pixel": 284491,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 284491 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.58,
+    "pixel": 284491,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 284491 pixel da 10 m"
+   }
+  },
+  "075003": {
+   "denominazione": "Alezio",
+   "copertura_arborea": {
+    "valore": 7.53,
+    "pixel": 163605,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 163605 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.28,
+    "pixel": 163605,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 163605 pixel da 10 m"
+   }
+  },
+  "075004": {
+   "denominazione": "Alliste",
+   "copertura_arborea": {
+    "valore": 7.97,
+    "pixel": 233817,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233817 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.22,
+    "pixel": 233817,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233817 pixel da 10 m"
+   }
+  },
+  "075005": {
+   "denominazione": "Andrano",
+   "copertura_arborea": {
+    "valore": 15.71,
+    "pixel": 156414,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 156414 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.57,
+    "pixel": 156414,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 156414 pixel da 10 m"
+   }
+  },
+  "075006": {
+   "denominazione": "Aradeo",
+   "copertura_arborea": {
+    "valore": 6.85,
+    "pixel": 83069,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 83069 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 14.89,
+    "pixel": 83069,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 83069 pixel da 10 m"
+   }
+  },
+  "075007": {
+   "denominazione": "Arnesano",
+   "copertura_arborea": {
+    "valore": 13.08,
+    "pixel": 135179,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 135179 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.36,
+    "pixel": 135179,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 135179 pixel da 10 m"
+   }
+  },
+  "075008": {
+   "denominazione": "Bagnolo del Salento",
+   "copertura_arborea": {
+    "valore": 15.74,
+    "pixel": 64391,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 64391 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.34,
+    "pixel": 64391,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 64391 pixel da 10 m"
+   }
+  },
+  "075009": {
+   "denominazione": "Botrugno",
+   "copertura_arborea": {
+    "valore": 10.46,
+    "pixel": 95083,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 95083 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.28,
+    "pixel": 95083,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 95083 pixel da 10 m"
+   }
+  },
+  "075010": {
+   "denominazione": "Calimera",
+   "copertura_arborea": {
+    "valore": 18.18,
+    "pixel": 109912,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109912 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 12.74,
+    "pixel": 109912,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109912 pixel da 10 m"
+   }
+  },
+  "075011": {
+   "denominazione": "Campi Salentina",
+   "copertura_arborea": {
+    "valore": 7.86,
+    "pixel": 452032,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 452032 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.05,
+    "pixel": 452032,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 452032 pixel da 10 m"
+   }
+  },
+  "075012": {
+   "denominazione": "Cannole",
+   "copertura_arborea": {
+    "valore": 20.76,
+    "pixel": 199981,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 199981 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.82,
+    "pixel": 199981,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 199981 pixel da 10 m"
+   }
+  },
+  "075013": {
+   "denominazione": "Caprarica di Lecce",
+   "copertura_arborea": {
+    "valore": 12.42,
+    "pixel": 107320,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 107320 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.29,
+    "pixel": 107320,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 107320 pixel da 10 m"
+   }
+  },
+  "075014": {
+   "denominazione": "Carmiano",
+   "copertura_arborea": {
+    "valore": 7.53,
+    "pixel": 236521,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 236521 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.16,
+    "pixel": 236521,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 236521 pixel da 10 m"
+   }
+  },
+  "075015": {
+   "denominazione": "Carpignano Salentino",
+   "copertura_arborea": {
+    "valore": 17.5,
+    "pixel": 482336,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 482336 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.7,
+    "pixel": 482336,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 482336 pixel da 10 m"
+   }
+  },
+  "075016": {
+   "denominazione": "Casarano",
+   "copertura_arborea": {
+    "valore": 12.33,
+    "pixel": 378514,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 378514 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.33,
+    "pixel": 378514,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 378514 pixel da 10 m"
+   }
+  },
+  "075017": {
+   "denominazione": "Castri di Lecce",
+   "copertura_arborea": {
+    "valore": 23.45,
+    "pixel": 125829,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 125829 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.93,
+    "pixel": 125829,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 125829 pixel da 10 m"
+   }
+  },
+  "075018": {
+   "denominazione": "Castrignano de' Greci",
+   "copertura_arborea": {
+    "valore": 9.41,
+    "pixel": 93777,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 93777 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.75,
+    "pixel": 93777,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 93777 pixel da 10 m"
+   }
+  },
+  "075019": {
+   "denominazione": "Castrignano del Capo",
+   "copertura_arborea": {
+    "valore": 12.53,
+    "pixel": 204204,
+    "pixel_fuori_scala": 26,
+    "stato": "VALORE",
+    "nota": "media su 204178 pixel da 10 m; 26 pixel fuori scala esclusi"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.35,
+    "pixel": 204204,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 204204 pixel da 10 m"
+   }
+  },
+  "075020": {
+   "denominazione": "Cavallino",
+   "copertura_arborea": {
+    "valore": 7.82,
+    "pixel": 224649,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 224649 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.07,
+    "pixel": 224649,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 224649 pixel da 10 m"
+   }
+  },
+  "075021": {
+   "denominazione": "Collepasso",
+   "copertura_arborea": {
+    "valore": 9.29,
+    "pixel": 126685,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126685 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.59,
+    "pixel": 126685,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126685 pixel da 10 m"
+   }
+  },
+  "075022": {
+   "denominazione": "Copertino",
+   "copertura_arborea": {
+    "valore": 7.15,
+    "pixel": 582383,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 582383 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.17,
+    "pixel": 582383,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 582383 pixel da 10 m"
+   }
+  },
+  "075023": {
+   "denominazione": "Corigliano d'Otranto",
+   "copertura_arborea": {
+    "valore": 7.52,
+    "pixel": 283490,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 283490 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.33,
+    "pixel": 283490,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 283490 pixel da 10 m"
+   }
+  },
+  "075024": {
+   "denominazione": "Corsano",
+   "copertura_arborea": {
+    "valore": 10.76,
+    "pixel": 89842,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 89842 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.02,
+    "pixel": 89842,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 89842 pixel da 10 m"
+   }
+  },
+  "075025": {
+   "denominazione": "Cursi",
+   "copertura_arborea": {
+    "valore": 12.76,
+    "pixel": 84361,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84361 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.86,
+    "pixel": 84361,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84361 pixel da 10 m"
+   }
+  },
+  "075026": {
+   "denominazione": "Cutrofiano",
+   "copertura_arborea": {
+    "valore": 7.79,
+    "pixel": 556212,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 556212 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.49,
+    "pixel": 556212,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 556212 pixel da 10 m"
+   }
+  },
+  "075027": {
+   "denominazione": "Diso",
+   "copertura_arborea": {
+    "valore": 12.42,
+    "pixel": 114072,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 114072 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.78,
+    "pixel": 114072,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 114072 pixel da 10 m"
+   }
+  },
+  "075028": {
+   "denominazione": "Gagliano del Capo",
+   "copertura_arborea": {
+    "valore": 11.06,
+    "pixel": 163827,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 163827 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.37,
+    "pixel": 163827,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 163827 pixel da 10 m"
+   }
+  },
+  "075029": {
+   "denominazione": "Galatina",
+   "copertura_arborea": {
+    "valore": 6.28,
+    "pixel": 809500,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 809500 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.53,
+    "pixel": 809500,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 809500 pixel da 10 m"
+   }
+  },
+  "075030": {
+   "denominazione": "Galatone",
+   "copertura_arborea": {
+    "valore": 8.11,
+    "pixel": 464750,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 464750 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.99,
+    "pixel": 464750,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 464750 pixel da 10 m"
+   }
+  },
+  "075031": {
+   "denominazione": "Gallipoli",
+   "copertura_arborea": {
+    "valore": 11.43,
+    "pixel": 402461,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 402461 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.37,
+    "pixel": 402461,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 402461 pixel da 10 m"
+   }
+  },
+  "075032": {
+   "denominazione": "Giuggianello",
+   "copertura_arborea": {
+    "valore": 13.31,
+    "pixel": 103028,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 103028 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.97,
+    "pixel": 103028,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 103028 pixel da 10 m"
+   }
+  },
+  "075033": {
+   "denominazione": "Giurdignano",
+   "copertura_arborea": {
+    "valore": 16.83,
+    "pixel": 137775,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 137775 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.67,
+    "pixel": 137775,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 137775 pixel da 10 m"
+   }
+  },
+  "075034": {
+   "denominazione": "Guagnano",
+   "copertura_arborea": {
+    "valore": 6.3,
+    "pixel": 378081,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 378081 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.32,
+    "pixel": 378081,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 378081 pixel da 10 m"
+   }
+  },
+  "075035": {
+   "denominazione": "Lecce",
+   "copertura_arborea": {
+    "valore": 9.64,
+    "pixel": 2357763,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2357763 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.1,
+    "pixel": 2357763,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 2357763 pixel da 10 m"
+   }
+  },
+  "075036": {
+   "denominazione": "Lequile",
+   "copertura_arborea": {
+    "valore": 7.22,
+    "pixel": 358389,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 358389 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.49,
+    "pixel": 358389,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 358389 pixel da 10 m"
+   }
+  },
+  "075037": {
+   "denominazione": "Leverano",
+   "copertura_arborea": {
+    "valore": 10.7,
+    "pixel": 487423,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 487423 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.55,
+    "pixel": 487423,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 487423 pixel da 10 m"
+   }
+  },
+  "075038": {
+   "denominazione": "Lizzanello",
+   "copertura_arborea": {
+    "valore": 9.5,
+    "pixel": 250545,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 250545 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.79,
+    "pixel": 250545,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 250545 pixel da 10 m"
+   }
+  },
+  "075039": {
+   "denominazione": "Maglie",
+   "copertura_arborea": {
+    "valore": 14.83,
+    "pixel": 224273,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 224273 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.44,
+    "pixel": 224273,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 224273 pixel da 10 m"
+   }
+  },
+  "075040": {
+   "denominazione": "Martano",
+   "copertura_arborea": {
+    "valore": 8.56,
+    "pixel": 218837,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 218837 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.35,
+    "pixel": 218837,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 218837 pixel da 10 m"
+   }
+  },
+  "075041": {
+   "denominazione": "Martignano",
+   "copertura_arborea": {
+    "valore": 12.67,
+    "pixel": 64643,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 64643 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.05,
+    "pixel": 64643,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 64643 pixel da 10 m"
+   }
+  },
+  "075042": {
+   "denominazione": "Matino",
+   "copertura_arborea": {
+    "valore": 7.07,
+    "pixel": 264111,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 264111 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.0,
+    "pixel": 264111,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 264111 pixel da 10 m"
+   }
+  },
+  "075043": {
+   "denominazione": "Melendugno",
+   "copertura_arborea": {
+    "valore": 16.96,
+    "pixel": 910810,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 910810 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.49,
+    "pixel": 910810,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 910810 pixel da 10 m"
+   }
+  },
+  "075044": {
+   "denominazione": "Melissano",
+   "copertura_arborea": {
+    "valore": 4.32,
+    "pixel": 126114,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126114 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 14.29,
+    "pixel": 126114,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126114 pixel da 10 m"
+   }
+  },
+  "075045": {
+   "denominazione": "Melpignano",
+   "copertura_arborea": {
+    "valore": 7.84,
+    "pixel": 105750,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 105750 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.46,
+    "pixel": 105750,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 105750 pixel da 10 m"
+   }
+  },
+  "075046": {
+   "denominazione": "Miggiano",
+   "copertura_arborea": {
+    "valore": 11.96,
+    "pixel": 79191,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 79191 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.87,
+    "pixel": 79191,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 79191 pixel da 10 m"
+   }
+  },
+  "075047": {
+   "denominazione": "Minervino di Lecce",
+   "copertura_arborea": {
+    "valore": 13.2,
+    "pixel": 176406,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 176406 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.6,
+    "pixel": 176406,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 176406 pixel da 10 m"
+   }
+  },
+  "075048": {
+   "denominazione": "Monteroni di Lecce",
+   "copertura_arborea": {
+    "valore": 15.49,
+    "pixel": 166008,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 166008 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 10.48,
+    "pixel": 166008,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 166008 pixel da 10 m"
+   }
+  },
+  "075049": {
+   "denominazione": "Montesano Salentino",
+   "copertura_arborea": {
+    "valore": 10.36,
+    "pixel": 84673,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84673 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.21,
+    "pixel": 84673,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84673 pixel da 10 m"
+   }
+  },
+  "075050": {
+   "denominazione": "Morciano di Leuca",
+   "copertura_arborea": {
+    "valore": 14.52,
+    "pixel": 133752,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 133752 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 9.64,
+    "pixel": 133752,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 133752 pixel da 10 m"
+   }
+  },
+  "075051": {
+   "denominazione": "Muro Leccese",
+   "copertura_arborea": {
+    "valore": 11.58,
+    "pixel": 162913,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 162913 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.03,
+    "pixel": 162913,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 162913 pixel da 10 m"
+   }
+  },
+  "075052": {
+   "denominazione": "Nardò",
+   "copertura_arborea": {
+    "valore": 10.2,
+    "pixel": 1908205,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1908205 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.27,
+    "pixel": 1908205,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 1908205 pixel da 10 m"
+   }
+  },
+  "075053": {
+   "denominazione": "Neviano",
+   "copertura_arborea": {
+    "valore": 16.38,
+    "pixel": 161700,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 161700 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.08,
+    "pixel": 161700,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 161700 pixel da 10 m"
+   }
+  },
+  "075054": {
+   "denominazione": "Nociglia",
+   "copertura_arborea": {
+    "valore": 9.25,
+    "pixel": 109179,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109179 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.63,
+    "pixel": 109179,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 109179 pixel da 10 m"
+   }
+  },
+  "075055": {
+   "denominazione": "Novoli",
+   "copertura_arborea": {
+    "valore": 6.94,
+    "pixel": 177654,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 177654 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.57,
+    "pixel": 177654,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 177654 pixel da 10 m"
+   }
+  },
+  "075056": {
+   "denominazione": "Ortelle",
+   "copertura_arborea": {
+    "valore": 11.26,
+    "pixel": 100121,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 100121 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.18,
+    "pixel": 100121,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 100121 pixel da 10 m"
+   }
+  },
+  "075057": {
+   "denominazione": "Otranto",
+   "copertura_arborea": {
+    "valore": 13.12,
+    "pixel": 757887,
+    "pixel_fuori_scala": 137,
+    "stato": "VALORE",
+    "nota": "media su 757750 pixel da 10 m; 137 pixel fuori scala esclusi"
+   },
+   "suolo_impermeabile": {
+    "valore": 1.78,
+    "pixel": 757887,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 757887 pixel da 10 m"
+   }
+  },
+  "075058": {
+   "denominazione": "Palmariggi",
+   "copertura_arborea": {
+    "valore": 16.62,
+    "pixel": 92413,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 92413 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.59,
+    "pixel": 92413,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 92413 pixel da 10 m"
+   }
+  },
+  "075059": {
+   "denominazione": "Parabita",
+   "copertura_arborea": {
+    "valore": 8.92,
+    "pixel": 207941,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 207941 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.11,
+    "pixel": 207941,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 207941 pixel da 10 m"
+   }
+  },
+  "075060": {
+   "denominazione": "Patù",
+   "copertura_arborea": {
+    "valore": 15.08,
+    "pixel": 86898,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 86898 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.55,
+    "pixel": 86898,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 86898 pixel da 10 m"
+   }
+  },
+  "075061": {
+   "denominazione": "Poggiardo",
+   "copertura_arborea": {
+    "valore": 8.37,
+    "pixel": 197197,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 197197 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.75,
+    "pixel": 197197,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 197197 pixel da 10 m"
+   }
+  },
+  "075063": {
+   "denominazione": "Racale",
+   "copertura_arborea": {
+    "valore": 5.89,
+    "pixel": 239428,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 239428 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 13.5,
+    "pixel": 239428,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 239428 pixel da 10 m"
+   }
+  },
+  "075064": {
+   "denominazione": "Ruffano",
+   "copertura_arborea": {
+    "valore": 15.77,
+    "pixel": 389356,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 389356 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.43,
+    "pixel": 389356,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 389356 pixel da 10 m"
+   }
+  },
+  "075065": {
+   "denominazione": "Salice Salentino",
+   "copertura_arborea": {
+    "valore": 5.6,
+    "pixel": 585960,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 585960 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.69,
+    "pixel": 585960,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 585960 pixel da 10 m"
+   }
+  },
+  "075066": {
+   "denominazione": "Salve",
+   "copertura_arborea": {
+    "valore": 9.89,
+    "pixel": 322261,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 322261 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.58,
+    "pixel": 322261,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 322261 pixel da 10 m"
+   }
+  },
+  "075067": {
+   "denominazione": "Sanarica",
+   "copertura_arborea": {
+    "valore": 8.47,
+    "pixel": 126997,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126997 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.77,
+    "pixel": 126997,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 126997 pixel da 10 m"
+   }
+  },
+  "075068": {
+   "denominazione": "San Cesario di Lecce",
+   "copertura_arborea": {
+    "valore": 6.87,
+    "pixel": 80852,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 80852 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 14.72,
+    "pixel": 80852,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 80852 pixel da 10 m"
+   }
+  },
+  "075069": {
+   "denominazione": "San Donato di Lecce",
+   "copertura_arborea": {
+    "valore": 7.98,
+    "pixel": 214187,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 214187 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.15,
+    "pixel": 214187,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 214187 pixel da 10 m"
+   }
+  },
+  "075070": {
+   "denominazione": "Sannicola",
+   "copertura_arborea": {
+    "valore": 11.63,
+    "pixel": 275563,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 275563 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.24,
+    "pixel": 275563,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 275563 pixel da 10 m"
+   }
+  },
+  "075071": {
+   "denominazione": "San Pietro in Lama",
+   "copertura_arborea": {
+    "valore": 12.2,
+    "pixel": 80149,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 80149 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.2,
+    "pixel": 80149,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 80149 pixel da 10 m"
+   }
+  },
+  "075072": {
+   "denominazione": "Santa Cesarea Terme",
+   "copertura_arborea": {
+    "valore": 10.26,
+    "pixel": 265653,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 265653 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.85,
+    "pixel": 265653,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 265653 pixel da 10 m"
+   }
+  },
+  "075073": {
+   "denominazione": "Scorrano",
+   "copertura_arborea": {
+    "valore": 11.97,
+    "pixel": 349282,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 349282 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.47,
+    "pixel": 349282,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 349282 pixel da 10 m"
+   }
+  },
+  "075074": {
+   "denominazione": "Seclì",
+   "copertura_arborea": {
+    "valore": 10.19,
+    "pixel": 87241,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 87241 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.89,
+    "pixel": 87241,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 87241 pixel da 10 m"
+   }
+  },
+  "075075": {
+   "denominazione": "Sogliano Cavour",
+   "copertura_arborea": {
+    "valore": 6.26,
+    "pixel": 52706,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 52706 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 15.16,
+    "pixel": 52706,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 52706 pixel da 10 m"
+   }
+  },
+  "075076": {
+   "denominazione": "Soleto",
+   "copertura_arborea": {
+    "valore": 6.86,
+    "pixel": 301640,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 301640 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.83,
+    "pixel": 301640,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 301640 pixel da 10 m"
+   }
+  },
+  "075077": {
+   "denominazione": "Specchia",
+   "copertura_arborea": {
+    "valore": 15.71,
+    "pixel": 246031,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 246031 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.32,
+    "pixel": 246031,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 246031 pixel da 10 m"
+   }
+  },
+  "075078": {
+   "denominazione": "Spongano",
+   "copertura_arborea": {
+    "valore": 10.71,
+    "pixel": 124664,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 124664 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.09,
+    "pixel": 124664,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 124664 pixel da 10 m"
+   }
+  },
+  "075079": {
+   "denominazione": "Squinzano",
+   "copertura_arborea": {
+    "valore": 11.78,
+    "pixel": 310085,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 310085 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.98,
+    "pixel": 310085,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 310085 pixel da 10 m"
+   }
+  },
+  "075080": {
+   "denominazione": "Sternatia",
+   "copertura_arborea": {
+    "valore": 7.91,
+    "pixel": 164739,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 164739 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 3.99,
+    "pixel": 164739,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 164739 pixel da 10 m"
+   }
+  },
+  "075081": {
+   "denominazione": "Supersano",
+   "copertura_arborea": {
+    "valore": 14.01,
+    "pixel": 361560,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 361560 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.22,
+    "pixel": 361560,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 361560 pixel da 10 m"
+   }
+  },
+  "075082": {
+   "denominazione": "Surano",
+   "copertura_arborea": {
+    "valore": 4.32,
+    "pixel": 87462,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 87462 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.38,
+    "pixel": 87462,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 87462 pixel da 10 m"
+   }
+  },
+  "075083": {
+   "denominazione": "Surbo",
+   "copertura_arborea": {
+    "valore": 7.43,
+    "pixel": 204185,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 204185 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 13.34,
+    "pixel": 204185,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 204185 pixel da 10 m"
+   }
+  },
+  "075084": {
+   "denominazione": "Taurisano",
+   "copertura_arborea": {
+    "valore": 10.52,
+    "pixel": 234208,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 234208 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.87,
+    "pixel": 234208,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 234208 pixel da 10 m"
+   }
+  },
+  "075085": {
+   "denominazione": "Taviano",
+   "copertura_arborea": {
+    "valore": 5.79,
+    "pixel": 219016,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 219016 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 13.87,
+    "pixel": 219016,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 219016 pixel da 10 m"
+   }
+  },
+  "075086": {
+   "denominazione": "Tiggiano",
+   "copertura_arborea": {
+    "valore": 12.94,
+    "pixel": 73688,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 73688 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.59,
+    "pixel": 73688,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 73688 pixel da 10 m"
+   }
+  },
+  "075087": {
+   "denominazione": "Trepuzzi",
+   "copertura_arborea": {
+    "valore": 11.23,
+    "pixel": 233133,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233133 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.61,
+    "pixel": 233133,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 233133 pixel da 10 m"
+   }
+  },
+  "075088": {
+   "denominazione": "Tricase",
+   "copertura_arborea": {
+    "valore": 12.11,
+    "pixel": 423461,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 423461 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.38,
+    "pixel": 423461,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 423461 pixel da 10 m"
+   }
+  },
+  "075089": {
+   "denominazione": "Tuglie",
+   "copertura_arborea": {
+    "valore": 12.17,
+    "pixel": 84005,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84005 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 11.47,
+    "pixel": 84005,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 84005 pixel da 10 m"
+   }
+  },
+  "075090": {
+   "denominazione": "Ugento",
+   "copertura_arborea": {
+    "valore": 12.82,
+    "pixel": 985258,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 985258 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.44,
+    "pixel": 985258,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 985258 pixel da 10 m"
+   }
+  },
+  "075091": {
+   "denominazione": "Uggiano La Chiesa",
+   "copertura_arborea": {
+    "valore": 12.03,
+    "pixel": 145599,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 145599 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 6.25,
+    "pixel": 145599,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 145599 pixel da 10 m"
+   }
+  },
+  "075092": {
+   "denominazione": "Veglie",
+   "copertura_arborea": {
+    "valore": 10.06,
+    "pixel": 617114,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 617114 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.43,
+    "pixel": 617114,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 617114 pixel da 10 m"
+   }
+  },
+  "075093": {
+   "denominazione": "Vernole",
+   "copertura_arborea": {
+    "valore": 14.6,
+    "pixel": 603872,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 603872 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 2.41,
+    "pixel": 603872,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 603872 pixel da 10 m"
+   }
+  },
+  "075094": {
+   "denominazione": "Zollino",
+   "copertura_arborea": {
+    "valore": 7.51,
+    "pixel": 97207,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 97207 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 4.91,
+    "pixel": 97207,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 97207 pixel da 10 m"
+   }
+  },
+  "075095": {
+   "denominazione": "San Cassiano",
+   "copertura_arborea": {
+    "valore": 10.47,
+    "pixel": 86939,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 86939 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 7.54,
+    "pixel": 86939,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 86939 pixel da 10 m"
+   }
+  },
+  "075096": {
+   "denominazione": "Castro",
+   "copertura_arborea": {
+    "valore": 12.09,
+    "pixel": 43644,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 43644 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 13.19,
+    "pixel": 43644,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 43644 pixel da 10 m"
+   }
+  },
+  "075097": {
+   "denominazione": "Porto Cesareo",
+   "copertura_arborea": {
+    "valore": 12.99,
+    "pixel": 342208,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 342208 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 8.82,
+    "pixel": 342208,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 342208 pixel da 10 m"
+   }
+  },
+  "075098": {
+   "denominazione": "Presicce-Acquarica",
+   "copertura_arborea": {
+    "valore": 15.53,
+    "pixel": 432558,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 432558 pixel da 10 m"
+   },
+   "suolo_impermeabile": {
+    "valore": 5.98,
+    "pixel": 432558,
+    "pixel_fuori_scala": 0,
+    "stato": "VALORE",
+    "nota": "media su 432558 pixel da 10 m"
+   }
+  }
+ }
+}
