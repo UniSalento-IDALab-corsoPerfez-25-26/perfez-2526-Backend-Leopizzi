@@ -41,7 +41,7 @@ flowchart LR
 - **Backend**: espone `/api` su `127.0.0.1:8000`; lo schema è in `docs/openapi.json`. **Non contiene dati**: li scarica dalle fonti pubbliche.
 - **Frontend**: `npm run dev` apre `127.0.0.1:5173` e gira ogni chiamata `/api/*` al Backend (variabile `ONEHEALTH_API_URL`). Il collegamento è **solo HTTP**: nessuno dei due importa file dell'altro; il contratto è lo schema OpenAPI.
 - **Presentation**: documenta il progetto e rimanda agli altri due; nessun codice eseguibile.
-- **Versioni**: Backend e Frontend vanno insieme alla stessa versione dell'API (oggi **0.2.0**, tag `v1.0.0` alla consegna).
+- **Versioni**: Backend e Frontend vanno insieme alla stessa versione dell'API (tag `v1.0.0`).
 
 Si consiglia di clonare i tre repository nella stessa cartella:
 
