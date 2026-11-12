@@ -3,7 +3,7 @@
   "info": {
     "title": "OneHealth — API locale",
     "description": "Valori di aria e decessi (e, quando integrato, calore) per comune o distretto.",
-    "version": "0.2.0"
+    "version": "1.0.0"
   },
   "paths": {
     "/api/valori": {
@@ -197,7 +197,7 @@
     "/api/aria/finestra": {
       "get": {
         "summary": "Valore di una finestra di giorni (fino a un mese) per distretto e comune, una fonte",
-        "description": "Come /api/aria/mese, ma su una finestra di giorni qualsiasi, fino a un mese: è quello che la mappa ridisegna\na ogni passo della barra temporale. I mesi interi della finestra si leggono dai riassunti mensili, i mesi di\nbordo dai giorni (localhost/server/aggregati_aria.py, `aggregati_periodo`): il risultato è la media dei giorni\ncon VALORE, come prima. Il confronto fra domini resta a distretto × mese (CLAUDE.md §3).",
+        "description": "Come /api/aria/mese, ma su una finestra di giorni qualsiasi, fino a un mese: è quello che la mappa ridisegna\na ogni passo della barra temporale. I mesi interi della finestra si leggono dai riassunti mensili, i mesi di\nbordo dai giorni (localhost/server/aggregati_aria.py, `aggregati_periodo`): il risultato è la media dei giorni\ncon VALORE, come prima. Il confronto fra domini resta a distretto × mese (docs/Regole_dei_dati.md).",
         "operationId": "aria_finestra_api_aria_finestra_get",
         "parameters": [
           {
@@ -1054,7 +1054,7 @@
     "/api/salute/fonti": {
       "get": {
         "summary": "Decessi secondo ISTAT giornaliero, bilancio mensile ed Eurostat, in un anno",
-        "description": "Legge le tabelle di scripts/salute/valida_decessi.py (nessuna chiamata a Eurostat). Distretto × mese: canale A\n↔ bilancio mensile; provincia × mese: canale A ↔ Eurostat (settimane ISO portate al mese del giovedì). Un comune\nnon ha decessi propri in dashboard (privacy, CLAUDE.md §7): si mostra il suo distretto e lo si dichiara.",
+        "description": "Legge le tabelle di scripts/salute/valida_decessi.py (nessuna chiamata a Eurostat). Distretto × mese: canale A\n↔ bilancio mensile; provincia × mese: canale A ↔ Eurostat (settimane ISO portate al mese del giovedì). Un comune\nnon ha decessi propri in dashboard (privacy, docs/Regole_dei_dati.md): si mostra il suo distretto e lo si dichiara.",
         "operationId": "salute_fonti_api_salute_fonti_get",
         "parameters": [
           {
@@ -1359,7 +1359,7 @@
     "/api/stagionalita": {
       "get": {
         "summary": "I 12 mesi dell'anno a confronto: aria, calore, decessi, PS/ADI/ricoveri simulati e criticità (tab Stagionalità)",
-        "description": "Legge solo i riassunti mensili preparati da scripts/dashboard/prepara_stagionalita.py: nessun mese si calcola\ndentro la richiesta. I mesi dell'archivio senza riassunto aggiornato sono in `mesi_da_preparare`. Niente comuni:\ni decessi si pubblicano solo per distretto e mese (privacy, CLAUDE.md §7).",
+        "description": "Legge solo i riassunti mensili preparati da scripts/dashboard/prepara_stagionalita.py: nessun mese si calcola\ndentro la richiesta. I mesi dell'archivio senza riassunto aggiornato sono in `mesi_da_preparare`. Niente comuni:\ni decessi si pubblicano solo per distretto e mese (privacy, docs/Regole_dei_dati.md).",
         "operationId": "stagionalita_api_stagionalita_get",
         "parameters": [
           {
@@ -3423,7 +3423,7 @@
           "mesi"
         ],
         "title": "DettaglioDecessi",
-        "description": "Decessi della zona nei mesi che la finestra tocca: la grana minima consentita dalla privacy è distretto × mese.\nLa media giornaliera è solo presentazione (convenzione '~', CLAUDE.md §3), non entra nei dataset."
+        "description": "Decessi della zona nei mesi che la finestra tocca: la grana minima consentita dalla privacy è distretto × mese.\nLa media giornaliera è solo presentazione (convenzione '~', docs/Regole_dei_dati.md), non entra nei dataset."
       },
       "DettaglioDimissioni": {
         "properties": {
@@ -4137,7 +4137,7 @@
           "riferimento": {
             "type": "boolean",
             "title": "Riferimento",
-            "description": "true per i 5 inquinanti di riferimento della dashboard (CLAUDE.md §6)"
+            "description": "true per i 5 inquinanti di riferimento della dashboard (docs/Regole_dei_dati.md)"
           },
           "valore_limite": {
             "anyOf": [
@@ -7326,7 +7326,7 @@
           "banda"
         ],
         "title": "SalubritaZona",
-        "description": "Indice di salubrità dell'aria rispetto ai limiti di legge (CLAUDE.md §6, 11/10/2026): per inquinante e\ncomplessivo = **peggiore inquinante** (stile EAQI/IQA, nessun peso). La banda della mappa segue il D.Lgs. 155/2010\nin vigore; i tre quadri (D.Lgs./OMS/UE) sono negli esiti. Confronto solo a parità di statistica."
+        "description": "Indice di salubrità dell'aria rispetto ai limiti di legge (docs/Regole_dei_dati.md, 11/10/2026): per inquinante e\ncomplessivo = **peggiore inquinante** (stile EAQI/IQA, nessun peso). La banda della mappa segue il D.Lgs. 155/2010\nin vigore; i tre quadri (D.Lgs./OMS/UE) sono negli esiti. Confronto solo a parità di statistica."
       },
       "SalubritaZonaMappa": {
         "properties": {

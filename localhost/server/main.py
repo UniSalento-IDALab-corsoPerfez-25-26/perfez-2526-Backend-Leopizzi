@@ -331,7 +331,7 @@ PORTA = int(os.environ.get("ONEHEALTH_PORT", "8000"))
 ORIGINI_CONSENTITE = [o.strip() for o in os.environ.get(
     "ONEHEALTH_ORIGINI", "http://127.0.0.1:5173,http://localhost:5173").split(",") if o.strip()]
 
-VERSIONE_API = "0.2.0"  # da confrontare con quella attesa dal Frontend (piano F0.3)
+VERSIONE_API = "1.0.0"  # da confrontare con quella attesa dal Frontend (piano F0.3)
 NOME_SERVIZIO = "OneHealth — API locale"
 
 app = FastAPI(title=NOME_SERVIZIO, version=VERSIONE_API, lifespan=ciclo_di_vita,

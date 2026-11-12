@@ -1,6 +1,6 @@
 # Endpoint
 
-API locale di OneHealth, versione **0.2.0**. File generato da `scripts/backend/esporta_openapi.py` dallo schema [`openapi.json`](openapi.json): non modificarlo a mano. Documentazione interattiva a server avviato su `http://127.0.0.1:8000/docs`.
+API locale di OneHealth, versione **1.0.0**. File generato da `scripts/backend/esporta_openapi.py` dallo schema [`openapi.json`](openapi.json): non modificarlo a mano. Documentazione interattiva a server avviato su `http://127.0.0.1:8000/docs`.
 
 Dove un periodo non è coperto dai dati scaricati, gli endpoint rispondono `404` con il motivo (mai un `500`). La correlazione fra i domini è sempre esplorativa, non causale.
 
